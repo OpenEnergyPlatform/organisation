@@ -37,8 +37,10 @@ The OEP follows the ideal of Open Science. Thus all material (Code, Data, Artwor
 ## Acknowledgment
 
 The projects are funded by the Federal Ministry for Economic Affairs and Energy (BMWi). 
-﻿<a href="http://www.bmwi.de/Navigation/EN/Home/home.html"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/10/BMWi.jpg" alt="Logo BMWi" width="230px"></a> 
+
+﻿<a href="http://www.bmwi.de/Navigation/EN/Home/home.html"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/10/BMWi.jpg" alt="Logo BMWi" width="200px"></a> 
 
 Coordinated by the Projektträger Jülich (PTJ). 
-﻿<a href="https://www.ptj.de/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/01/logo_PTJ.png" alt="Logo PTJ" width="230px"></a> 
+
+﻿<a href="https://www.ptj.de/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/01/logo_PTJ.png" alt="Logo PTJ" width="160px"></a> 
 
