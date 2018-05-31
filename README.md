@@ -1,11 +1,11 @@
 
-﻿<a href="http://oep.iks.cs.ovgu.de/"><img align="right" width="200" height="200" src="https://avatars2.githubusercontent.com/u/37101913?s=400&u=9b593cfdb6048a05ea6e72d333169a65e7c922be&v=4" alt="OpenEnergyPlatform"></a>
+﻿<a href="http://openenergy-platform.org/"><img align="right" width="200" height="200" src="https://avatars2.githubusercontent.com/u/37101913?s=400&u=9b593cfdb6048a05ea6e72d333169a65e7c922be&v=4" alt="OpenEnergyPlatform"></a>
 
 
 # OpeneEnergyPlatform - Organisation
 
 This repository is created for discussions and decisions regarding the OpenEnergyPlatform (OEP).
-The OEP is currentlty and on the long-run under development.
+The OEP is currentlty and on the long-run under development. Access the OEP here: http://openenergy-platform.org/
 
 ## Projects
 
