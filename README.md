@@ -1,7 +1,4 @@
 
-﻿<a href="http://openenergy-platform.org/"><img align="right" width="200" height="200" src="https://avatars2.githubusercontent.com/u/37101913?s=400&u=9b593cfdb6048a05ea6e72d333169a65e7c922be&v=4" alt="OpenEnergyPlatform"></a>
-
-
 # Open Energy Family - Organisation
 
 This repository is created for discussions and decisions regarding the Open Energy Family (OEF).
@@ -12,11 +9,9 @@ Access the webinterface that provides acccess to several OEF functionalities her
 ## Projects
 Several individuals across projects contribute to the development of the Open Energy Family. These projects are: 
 
-<a href="https://github.com/openego"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2015/08/Header.jpg" alt="Logo open_eGo" width="350px"></a>
-
-<a href="https://github.com/open-fred"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/08/Header.jpg" alt="Logo open_FRED" width="350px"></a>
-
-<a href="https://reiner-lemoine-institut.de/en/szenariendb/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2018/03/SzenarienDB_Header.png" alt="Logo SzenarienDB" width="350px"></a>
+<a href="https://github.com/openego"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2015/08/Header.jpg" alt="Logo open_eGo" width="275px"></a>
+<a href="https://github.com/open-fred"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/08/Header.jpg" alt="Logo open_FRED" width="275px"></a>
+<a href="https://reiner-lemoine-institut.de/en/szenariendb/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2018/03/SzenarienDB_Header.png" alt="Logo SzenarienDB" width="275px"></a>
 
 ## Partners
 Partner institutions currently working on the Open Energy Family are the following
