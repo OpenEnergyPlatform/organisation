@@ -45,5 +45,5 @@ Coordinated by the Projektträger Jülich (PTJ).
 ﻿<a href="https://www.ptj.de/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/01/logo_PTJ.png" alt="Logo PTJ" width="160px"></a> 
  
 ## Contribute
-Anyone is invited to help develop the Open Energy Family. To do so ###
+Anyone is invited to help develop the Open Energy Family. 
 
