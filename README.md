@@ -22,6 +22,8 @@ Partner institutions currently working on the Open Energy Family are the followi
 
 ﻿<a href="http://www.znes-flensburg.de/"><img src="https://i2.wp.com/reiner-lemoine-institut.de/wp-content/uploads/2017/03/Logo_ZNES_farbig_NEU.png" alt="Logo ZNES" width="280px"></a> 
 
+﻿<a href="https://www.uni-flensburg.de/en/"><img src="https://www.uni-flensburg.de/fileadmin/content/system/logos/europa/uni-flensburg-en.png" alt="Logo EUF" width="280px"></a> 
+
 ﻿<a href="http://www.dlr.de/ve/en/desktopdefault.aspx/tabid-12472/21440_read-49440/"><img src="https://openegoproject.files.wordpress.com/2017/02/dlr_logo_vernetzte_energiesysteme_gb_grau.jpg" alt="Logo DLR" width="230px"></a> 
 
 ﻿<a href="http://www.hzg.de/index.php.de"><img src="https://i1.wp.com/reiner-lemoine-institut.de/wp-content/uploads/2016/08/logo_hzg_cms10.gif" alt="Logo HZG" width="230px"></a> 
