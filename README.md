@@ -14,43 +14,51 @@ Some have their own repository while some are directly attached to other members
 Together they make a strong family circle for working with open data and open science.
 
 <a href="https://openenergy-platform.org/"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OpenEnergyPlatform_OEP.png" width="50px"></a>
-[`Open Energy Platform (OEP)`](https://github.com/OpenEnergyPlatform/oeplatform)<br>
+[`Open Energy Platform (OEP)`](https://openenergy-platform.org/)
+<a href="https://github.com/OpenEnergyPlatform/oeplatform"><img src="https://github.com/fluidicon.png" width="30px"></a><br>
 A web interface to access most of the modules, especially the community database.
 
 <a href="https://openenergy-platform.org/factsheets/overview/"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_Factsheets.png" width="50px"></a>
-[`Factsheets`](https://github.com/OpenEnergyPlatform/oeplatform)<br>
+[`Factsheets`](https://openenergy-platform.org/factsheets/overview/)<br>
 The Factsheets are a standardized collection and presentation of information about modelling <a href="https://openenergy-platform.org/factsheets/frameworks/">frameworks</a>, <a href="https://openenergy-platform.org/factsheets/models/">models</a> and <a href="https://openenergy-platform.org/factsheets/scenarios/">scenarios</a> used in climate and energy system modelling.
 
 <a href="https://openenergy-platform.org/tutorials/"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_Tutorials.png" width="50px"></a>
-[`Tutorials`](https://github.com/OpenEnergyPlatform/tutorial)<br>
+[`Tutorials`](https://openenergy-platform.org/tutorials/)
+<a href="https://github.com/OpenEnergyPlatform/tutorial"><img src="https://github.com/fluidicon.png" width="30px"></a><br>
 Tutorials, manuals and example code for the use of the Open Energy Family.
 
 <a href="https://openenergy-platform.org/dataedit/schemas"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OpenEnergyDatabase_OEDB.png" width="50px"></a>
 [`Open Energy Database (OEDB)`](https://openenergy-platform.org/dataedit/schemas)<br>
 An open community database for energy, climate and modelling data.
 
-<a href="https://openenergy-platform.org/"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OEMetadata.png" width="50px"></a>
-[`Open Energy Metadata (OEMetadata)`](https://github.com/OpenEnergyPlatform/oemetadata)<br>
+<a href="https://github.com/OpenEnergyPlatform/oemetadata"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OEMetadata.png" width="50px"></a>
+[`Open Energy Metadata (OEMetadata)`](https://github.com/OpenEnergyPlatform/oemetadata/blob/develop/metadata/latest/template.json)
+<a href="https://github.com/OpenEnergyPlatform/oemetadata"><img src="https://github.com/fluidicon.png" width="30px"></a><br>
 Extensive set of metadata based on the tabular data package specifications and the FAIR principles.
 
-<a href="https://github.com/OpenEnergyPlatform/data-preprocessing"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OpenEnergyDatamodel.png" width="50px"></a>
-[`Open Energy Datamodel (OEDatamodel)`](https://github.com/OpenEnergyPlatform/oedatamodel)<br>
+<a href="https://github.com/OpenEnergyPlatform/oedatamodel"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OpenEnergyDatamodel.png" width="50px"></a>
+[`Open Energy Datamodel (OEDatamodel)`](https://github.com/OpenEnergyPlatform/oedatamodel/tree/develop/oedatamodel/latest/v111/datapackage)
+<a href="https://github.com/OpenEnergyPlatform/oedatamodel"><img src="https://github.com/fluidicon.png" width="30px"></a><br>
 A common open energy data model (oedatamodel) and datapackage format for energy and scenario data.
 
 <a href="https://github.com/OpenEnergyPlatform/omi"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OpenMetadataIntegration_OMI.png" width="50px"></a>
-[`Open Metadata Integration (OMI)`](https://github.com/OpenEnergyPlatform/omi)<br>
+[`Open Metadata Integration (OMI)`](https://github.com/OpenEnergyPlatform/omi)
+<a href="https://github.com/OpenEnergyPlatform/omi"><img src="https://github.com/fluidicon.png" width="30px"></a><br>
 A library to integrate, process and translate OEMetadata.
 
 <a href="https://github.com/OpenEnergyPlatform/data-preprocessing"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OpenProcessIntegration_OPI.png" width="50px"></a>
-[`Open Process Integration (OPI)`](https://github.com/OpenEnergyPlatform/data-preprocessing)<br>
+[`Open Process Integration (OPI)`](https://github.com/OpenEnergyPlatform/data-preprocessing)
+<a href="https://github.com/OpenEnergyPlatform/data-preprocessing"><img src="https://github.com/fluidicon.png" width="30px"></a><br>
 A repository for data formatting, import of data, data and metadata review, and data curation.
 
-<a href="https://openenergy-platform.org/"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OEDialect.png" width="50px"></a>
-[`Open Energy Dialect (OEDialect)`](https://github.com/OpenEnergyPlatform/oedialect)<br>
+<a href="https://github.com/OpenEnergyPlatform/oedialect"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OEDialect.png" width="50px"></a>
+[`Open Energy Dialect (OEDialect)`](https://github.com/OpenEnergyPlatform/oedialect)
+<a href="https://github.com/OpenEnergyPlatform/oedialect"><img src="https://github.com/fluidicon.png" width="30px"></a><br>
 A SQLAlchemy dialect using the REST-API to download and upload data to the OEP.
 
 <a href="https://openenergy-platform.org/ontology/"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OpenEnergyOntology_OEO.png" width="50px"></a>
-[`Open Energy Ontology (OEO)`](https://github.com/OpenEnergyPlatform/ontology)<br>
+[`Open Energy Ontology (OEO)`](https://openenergy-platform.org/ontology/)
+<a href="https://github.com/OpenEnergyPlatform/ontology"><img src="https://github.com/fluidicon.png" width="30px"></a><br>
 An ontology is a formal collection of terms and relationships between those terms, with clear definitions and a logical interpretation.
 
 
