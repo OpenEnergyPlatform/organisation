@@ -2,8 +2,7 @@
 # Open Energy Family - Organisation
 
 This repository is created for discussions and decisions regarding the Open Energy Family.
-It is a collection of various information and tools that help to "set energy data free".
-The Open Energy Family is currently and on the long-run under development.
+It is a collection of various tools and information and that help working with energy related data. It is a collaborative community effort, everything is openly developed. 
 You can find more information at the OEP: https://openenergy-platform.org/about/
 
 ## The Open Energy Family Members
@@ -11,12 +10,12 @@ You can find more information at the OEP: https://openenergy-platform.org/about/
 Like many families, the Open Energy Family is large and growing continuously.
 Some family members are very well known and are in the foreground while others are rather small and inconspicuous. 
 Some have their own repository while some are directly attached to other members. 
-Together they make a strong family circle for working with open data and open science.
+Together, they form a strong family circle for Open Science in energy system research.
 
 <a href="https://openenergy-platform.org/"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OpenEnergyPlatform_OEP.png" width="50px"></a>
 [`Open Energy Platform (OEP)`](https://openenergy-platform.org/)
 <a href="https://github.com/OpenEnergyPlatform/oeplatform"><img src="https://github.com/fluidicon.png" width="30px"></a><br>
-A web interface to access most of the modules, especially the community database.
+A web interface to access most of the modules, especially the community database and factsheets.
 
 <a href="https://openenergy-platform.org/factsheets/overview/"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_Factsheets.png" width="50px"></a>
 [`Factsheets`](https://openenergy-platform.org/factsheets/overview/)<br>
@@ -60,7 +59,6 @@ A SQLAlchemy dialect using the REST-API to download and upload data to the OEP.
 [`Open Energy Ontology (OEO)`](https://openenergy-platform.org/ontology/)
 <a href="https://github.com/OpenEnergyPlatform/ontology"><img src="https://github.com/fluidicon.png" width="30px"></a><br>
 An ontology is a formal collection of terms and relationships between those terms, with clear definitions and a logical interpretation.
-
 
 ## Projects
 Several individuals across different research projects contribute to the development of the Open Energy Family. These projects are: 
@@ -122,5 +120,4 @@ Supported by the Reiner Lemoine Stiftung (RLS).
 ﻿<a href="https://www.reiner-lemoine-stiftung.de/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/10/RLS_Logo_supported_by.png" alt="Logo RLS" width="200px"></a> 
 
 ## Contribute
-Anyone is invited to help develop the Open Energy Family. 
-
+Get involved and contribute! Anyone is invited to develop the Open Energy Family. 
