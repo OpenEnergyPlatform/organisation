@@ -70,11 +70,12 @@ Several individuals across different research projects contribute to the develop
 <a href="https://reiner-lemoine-institut.de/en/szenariendb/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2018/03/SzenarienDB_Header.png" alt="Logo SzenarienDB" width="275px"></a>
 <a href="https://reiner-lemoine-institut.de/en/open_modex-2/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/02/open_MODEX_header.jpg" alt="Logo open_MODEX" width="275px"></a>
 <a href="https://reiner-lemoine-institut.de/en/lod-geoss/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/09/LOD-GEOSS_Logo.png" alt="Logo LOD-GEOSS" width="275px"></a>
+<a href="https://reiner-lemoine-institut.de/en/automated-comparison-energy-scenarios-sirop/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2021/04/SIROP_logo.png" alt="Logo SIROP" width="275px"></a>
 
 ## Partners
-Partner institutions currently working on the Open Energy Family are the following
+Partner institutions currently working on the Open Energy Family:
 
-﻿<a href="http://iks.cs.ovgu.de/IKS.html"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/07/Logo_Uni_Magdeburg.png" alt="Logo Uni Magdeburg" width="230px"></a> 
+﻿<a href="https://www.iks.ovgu.de/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/07/Logo_Uni_Magdeburg.png" alt="Logo Uni Magdeburg" width="230px"></a> 
 
 ﻿<a href="https://reiner-lemoine-institut.de/"><img src="https://reiner-lemoine-institut.de//wp-content/uploads/2015/09/rlilogo.png" alt="Logo RLI" width="140px"></a> 
 
@@ -92,7 +93,7 @@ Partner institutions currently working on the Open Energy Family are the followi
 
 ## Licenses
 
-The Open Energy Family follows the ideal of Open Science. Thus all material (Code, Data, Artwork) will be licensed with suitable open licenses if possible.
+The Open Energy Family follows the ideal of Open Science. Thus all material (Code, Data, Artwork) will be licensed with suitable open licenses.
 
 ## Acknowledgment
 
