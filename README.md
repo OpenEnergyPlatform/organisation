@@ -75,21 +75,33 @@ Several individuals across different research projects contribute to the develop
 ## Partners
 Partner institutions currently working on the Open Energy Family:
 
-﻿<a href="https://www.iks.ovgu.de/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/07/Logo_Uni_Magdeburg.png" alt="Logo Uni Magdeburg" width="230px"></a> 
+﻿<a href="https://www.iks.ovgu.de/"><img src="https://openenergy-platform.org/static/logos/partner/OvGU.png" alt="Logo Uni Magdeburg" width="230px"></a> 
 
-﻿<a href="https://reiner-lemoine-institut.de/"><img src="https://reiner-lemoine-institut.de//wp-content/uploads/2015/09/rlilogo.png" alt="Logo RLI" width="140px"></a> 
+﻿<a href="https://reiner-lemoine-institut.de/"><img src="https://openenergy-platform.org/static/logos/partner/RLI.png" alt="Logo RLI" width="140px"></a> 
 
-﻿<a href="http://www.znes-flensburg.de/"><img src="https://i2.wp.com/reiner-lemoine-institut.de/wp-content/uploads/2017/03/Logo_ZNES_farbig_NEU.png" alt="Logo ZNES" width="280px"></a> 
+﻿<a href="https://www.uni-flensburg.de/en/"><img src="https://openenergy-platform.org/static/logos/partner/EUF.png" alt="Logo EUF" width="280px"></a> 
 
-﻿<a href="https://www.uni-flensburg.de/en/"><img src="https://www.uni-flensburg.de/typo3conf/ext/inttpl/Resources/Public/Images/logo-euf.svg" alt="Logo EUF" width="280px"></a> 
+﻿<a href="http://www.znes-flensburg.de/"><img src="https://openenergy-platform.org/static/logos/partner/ZNES.png" alt="Logo ZNES" width="280px"></a> 
 
-﻿<a href="http://www.dlr.de/ve/en/desktopdefault.aspx/tabid-12472/21440_read-49440/"><img src="https://openegoproject.files.wordpress.com/2017/02/dlr_logo_vernetzte_energiesysteme_gb_grau.jpg" alt="Logo DLR" width="230px"></a> 
+﻿<a href="http://www.dlr.de/ve/en/desktopdefault.aspx/tabid-12472/21440_read-49440/"><img src="https://openenergy-platform.org/static/logos/partner/DLR-VE.png" alt="Logo DLR" width="230px"></a> 
 
-﻿<a href="http://www.hzg.de/index.php.de"><img src="https://i1.wp.com/reiner-lemoine-institut.de/wp-content/uploads/2016/08/logo_hzg_cms10.gif" alt="Logo HZG" width="230px"></a> 
+﻿<a href="https://www.hereon.de/"><img src="https://openenergy-platform.org/static/logos/partner/partner_logo_hereon.png" alt="Logo Heron (ehem. HZG)" width="230px"></a> 
 
-﻿<a href="https://www.iee.fraunhofer.de/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2018/02/fraunhofer-iee-1.gif" alt="Logo Fraunhofer IEE" width="230px"></a> 
+﻿<a href="https://www.iee.fraunhofer.de/"><img src="https://openenergy-platform.org/static/logos/partner/IEE.png" alt="Logo Fraunhofer IEE" width="230px"></a> 
 
-﻿<a href="https://www.oeko.de/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2018/02/oeko-institut-logo_transp.png" alt="Logo Öko-Institut" width="230px"></a> 
+﻿<a href="https://www.oeko.de/"><img src="https://openenergy-platform.org/static/logos/partner/OEI.png" alt="Logo Öko-Institut" width="230px"></a> 
+
+﻿<a href="https://www.fz-juelich.de"><img src="https://openenergy-platform.org/static/logos/partner/FZJuelich-1.jpg" alt="Logo FZJ" width="230px"></a> 
+
+﻿<a href="https://infai.org/"><img src="https://openenergy-platform.org/static/logos/partner/InfAI-Logo.png" alt="Logo InfAI" width="230px"></a> 
+
+﻿<a href="https://www.pik-potsdam.de/"><img src="https://openenergy-platform.org/static/logos/partner/pik_logo.png" alt="Logo PIK" width="230px"></a> 
+
+﻿<a href="https://www.ier.uni-stuttgart.de/"><img src="https://openenergy-platform.org/static/logos/partner/Logo_IER_UniStuttgart-1200x386.png" alt="Logo IER" width="230px"></a> 
+
+﻿<a href="https://www.fortiss.org/"><img src="https://openenergy-platform.org/static/logos/partner/partner_logo_fortiss.png" alt="Logo fortiss" width="230px"></a> 
+
+﻿<a href="https://www.epe.ed.tum.de/ens/startseite/"><img src="https://www.epe.ed.tum.de/typo3/ext/tumtheme/Resources/Public/Icons/Org/tum-logo.png" alt="Logo TUM" width="230px"></a> 
 
 ## Licenses
 
@@ -97,9 +109,9 @@ The Open Energy Family follows the ideal of Open Science. Thus all material (Cod
 
 ## Acknowledgment
 
-The mentioned projects are funded by the Federal Ministry for Economic Affairs and Energy (BMWi). 
+The mentioned projects are funded by the Federal Ministry for Economic Affairs and Climate Action (BMWK). 
 
-﻿<a href="http://www.bmwi.de/Navigation/EN/Home/home.html"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/10/BMWi.jpg" alt="Logo BMWi" width="200px"></a> 
+﻿<a href="https://www.bmwk.de/Navigation/EN/Home/home.html"><img src="https://www.bmwk.de/SiteGlobals/BMWI/StyleBundles/Bilder/bmwi_logo_en.svg?__blob=normal&v=13" alt="Logo BMWK" width="200px"></a> 
 
 Coordinated by the Projektträger Jülich (PTJ). 
 
