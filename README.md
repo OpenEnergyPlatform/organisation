@@ -101,7 +101,7 @@ Partner institutions currently working on the Open Energy Family:
 
 ﻿<a href="https://www.fortiss.org/"><img src="https://openenergy-platform.org/static/logos/partner/partner_logo_fortiss.png" alt="Logo fortiss" width="230px"></a> 
 
-﻿<a href="https://www.epe.ed.tum.de/ens/startseite/"><img src="https://www.epe.ed.tum.de/typo3/ext/tumtheme/Resources/Public/Icons/Org/tum-logo.png" alt="Logo TUM" width="230px"></a> 
+﻿<a href="https://www.epe.ed.tum.de/ens/startseite/"><img src="https://www.epe.ed.tum.de/typo3/ext/tumtheme/Resources/Public/Icons/Org/tum-logo.png" alt="Logo TUM" width="170px"></a> 
 
 ## Licenses
 
@@ -116,7 +116,11 @@ The mentioned projects are funded by the Federal Ministry for Economic Affairs a
 Coordinated by the Projektträger Jülich (PTJ). 
 
 ﻿<a href="https://www.ptj.de/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/01/logo_PTJ.png" alt="Logo PTJ" width="160px"></a> 
- 
+
+Supported by the Reiner Lemoine Stiftung (RLS).
+
+﻿<a href="https://www.reiner-lemoine-stiftung.de/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/10/RLS_Logo_supported_by.png" alt="Logo RLS" width="200px"></a> 
+
 ## Contribute
 Anyone is invited to help develop the Open Energy Family. 
 
