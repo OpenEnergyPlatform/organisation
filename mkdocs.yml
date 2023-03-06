@@ -1,4 +1,7 @@
-site_name: My Docs
+# Project
+site_name: Open Energy Family Compendium
+site_url: 
+site_description: Write your documentation in Markdown and create a static page for your developer and user community
 docs_dir: 'kompendium'
 
 # Configuration
