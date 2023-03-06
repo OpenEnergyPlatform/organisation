@@ -1,0 +1,39 @@
+site_name: My Docs
+docs_dir: 'kompendium'
+
+# Configuration
+theme:
+  name: material
+  logo: img/OEP_Energy_Family_04.png
+  palette:
+    # Palette toggle for dark mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.path
+    - navigation.tracking
+    - navigation.top
+    - toc.follow
+
+# extensions 
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: 💙
+
+# Navigation
+nav:
+  - Home: index.md
