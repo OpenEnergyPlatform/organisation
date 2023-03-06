@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - feature/initial-kompendium#52
 permissions:
   contents: write
 jobs:
