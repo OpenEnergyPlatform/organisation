@@ -107,7 +107,7 @@ Partner institutions currently working on the Open Energy Family:
 
 ## Licenses
 
-The Open Energy Family follows the ideal of Open Science. Thus all material (Code, Data, Artwork) will be licensed with suitable open licenses.
+The Open Energy Family follows the ideal of Open Science. Thus all material (Code, Data, Artwork) is licensed with a suitable open license.
 
 ## Acknowledgment
 
