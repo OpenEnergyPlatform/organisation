@@ -32,6 +32,7 @@ Tutorials, manuals and example code for the use of the Open Energy Family.
 <a href="https://openenergy-platform.org/dataedit/schemas"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OpenEnergyDatabase_OEDB.png" width="50px"></a>
 [`Open Energy Database (OEDB)`](https://openenergy-platform.org/dataedit/schemas)<br>
 An open community database for energy, climate and modelling data.
+Everybody can contribute to the database by adding, editing, and reviewing information.
 
 <a href="https://github.com/OpenEnergyPlatform/oemetadata"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OEMetadata.png" width="50px"></a>
 [`Open Energy Metadata (OEMetadata)`](https://github.com/OpenEnergyPlatform/oemetadata/blob/develop/metadata/latest/template.json)
