@@ -40,3 +40,23 @@ markdown_extensions:
 # Navigation
 nav:
   - Home: index.md
+  - Open Energy Family:
+    - Overview: open-energy-family/index.md
+    - Knowledge transfer: open-energy-family/knowledge-transfer.md
+    - Open Energy Platform: open-energy-family/open-energy-platform.md
+    - Ontologie: open-energy-family/ontologie.md
+    - Workflow automation for Datapreprocessing: open-energy-family/open-process-integration.md
+    - Community management: open-energy-family/comunity-management.md
+    - Softwaretools: 
+      - open-energy-family/softwaretools/index.md
+      - oedialect: open-energy-family/softwaretools/oedialect.md
+      - oem2orm: open-energy-family/softwaretools/oem2orm.md
+      - oep-client: open-energy-family/softwaretools/oep-client.md
+      - omi: open-energy-family/softwaretools/omi.md
+      - saio: open-energy-family/softwaretools/saio.md
+    - Specification and Templates: 
+      - open-energy-family/templates-and-specification/index.md
+      - Factsheets: open-energy-family/templates-and-specification/factsheets.md
+      - Open Energy Datamodel: open-energy-family/templates-and-specification/open-energy-datamodel.md
+      - Open Energy Metadata: open-energy-family/templates-and-specification/open-energy-metadata.md
+  
