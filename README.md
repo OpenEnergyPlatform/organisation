@@ -9,10 +9,11 @@ For more information about the OEFamily and the OEP, please visit our website at
 
 ## The Open Energy Family Members
 
-Like many families, the Open Energy Family is large and growing continuously.
-Some family members are very well known and are in the foreground while others are rather small and inconspicuous. 
-Some have their own repository while some are directly attached to other members. 
-Together, they form a strong family circle for Open Science in energy system research.
+Like many families, the Open Energy Family a vast and ever-expanding community.
+Some of our family members are well-known and prominent, while others may be less visible but equally important.
+Some have their own dedicated repository, while others are integrated within larger projects.
+However, we are all connected by our shared goal of advancing Open Science in energy system research.
+Together, we form a strong and supportive circle, dedicated to the development and dissemination of cutting-edge tools and information that promote the efficient and sustainable use of energy.
 
 <a href="https://openenergy-platform.org/"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OpenEnergyPlatform_OEP.png" width="50px"></a>
 [`Open Energy Platform (OEP)`](https://openenergy-platform.org/)
