@@ -37,6 +37,13 @@ markdown_extensions:
   - toc:
       permalink: 💙
 
+# Customization
+extra:
+  generator: false
+
+extra_css:
+  - css/extra.css
+
 # Navigation
 nav:
   - Home: index.md
@@ -44,6 +51,7 @@ nav:
     - Overview: open-energy-family/index.md
     - Knowledge transfer: open-energy-family/knowledge-transfer.md
     - Open Energy Platform: open-energy-family/open-energy-platform.md
+    - Open Energy Database: open-energy-family/open-energy-database.md
     - Ontologie: open-energy-family/ontologie.md
     - Workflow automation for Datapreprocessing: open-energy-family/open-process-integration.md
     - Community management: open-energy-family/comunity-management.md
