@@ -1,9 +1,11 @@
 ﻿<a href="https://openenergy-platform.org/"><img align="right" width="200" height="200" src="https://avatars2.githubusercontent.com/u/37101913?s=400&u=9b593cfdb6048a05ea6e72d333169a65e7c922be&v=4" alt="OpenEnergyPlatform"></a>
 # Open Energy Family - Organisation
 
-This repository is created for discussions and decisions regarding the Open Energy Family.
-It is a collection of various tools and information and that help working with energy related data. It is a collaborative community effort, everything is openly developed. 
-You can find more information at the OEP: https://openenergy-platform.org/about/
+This repository is dedicated to discussions and decisions regarding the Open Energy Family (OEFamily).
+The OEFamily is a dynamic collection of tools and information designed to support working with energy-related data. 
+Our community is collaborative, and we openly develop everything. 
+Our goal is to provide users with access to the latest information and tools, so they can make informed decisions about energy. 
+For more information about the OEFamily and the OEP, please visit our website at https://openenergy-platform.org/about/.
 
 ## The Open Energy Family Members
 
