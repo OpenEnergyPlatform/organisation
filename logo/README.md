@@ -4,8 +4,31 @@ This folder holds all logos of the Open Energy Family (OEFamily).
 
 ## Logos
 
-<img src="https://github.com/OpenEnergyPlatform/organisation/blob/feature-51-logos-licenses/logo/OpenEnergyFamily_Logo_Academy.png" alt="OpenEnergyFamily_Logo_Academy" width="275px">
+<img src="https://github.com/OpenEnergyPlatform/organisation/blob/feature-51-logos-licenses/logo/OpenEnergyFamily_Logo_Academy.png" alt="OpenEnergyFamily_Logo_Academy" width="100px">
 
+<img src="https://github.com/OpenEnergyPlatform/organisation/blob/feature-51-logos-licenses/logo/OpenEnergyFamily_Logo_Energy_Databus.png" alt="OpenEnergyFamily_Logo_Energy_Databus" width="100px">
+
+<img src="https://github.com/OpenEnergyPlatform/organisation/blob/feature-51-logos-licenses/logo/OpenEnergyFamily_Logo_Factsheets.png" alt="OpenEnergyFamily_Logo_Factsheets" width="100px">
+
+<img src="https://github.com/OpenEnergyPlatform/organisation/blob/feature-51-logos-licenses/logo/OpenEnergyFamily_Logo_Energy_Databus.png" alt="OpenEnergyFamily_Logo_Energy_Databus" width="100px">
+
+<img src="https://github.com/OpenEnergyPlatform/organisation/blob/feature-51-logos-licenses/logo/OpenEnergyFamily_Logo_OEDialect" alt="OpenEnergyFamily_Logo_OEDialect" width="100px">
+
+<img src="https://github.com/OpenEnergyPlatform/organisation/blob/feature-51-logos-licenses/logo/OpenEnergyFamily_Logo_Energy_Databus.png" alt="OpenEnergyFamily_Logo_Energy_Databus" width="100px">
+
+<img src="https://github.com/OpenEnergyPlatform/organisation/blob/feature-51-logos-licenses/logo/OpenEnergyFamily_Logo_OEMetadata.png" alt="OpenEnergyFamily_Logo_OEMetadata" width="100px">
+
+<img src="https://github.com/OpenEnergyPlatform/organisation/blob/feature-51-logos-licenses/logo/OpenEnergyFamily_Logo_OpenEnergyDatabase.png" alt="OpenEnergyFamily_Logo_OpenEnergyDatabase" width="100px">
+
+<img src="https://github.com/OpenEnergyPlatform/organisation/blob/feature-51-logos-licenses/logo/OpenEnergyFamily_Logo_OpenEnergyDatamodel.png" alt="OpenEnergyFamily_Logo_OpenEnergyDatamodel" width="100px">
+
+<img src="https://github.com/OpenEnergyPlatform/organisation/blob/feature-51-logos-licenses/logo/OpenEnergyFamily_Logo_OpenEnergyDatamodel.png" alt="OpenEnergyFamily_Logo_OpenEnergyDatamodel" width="100px">
+
+<img src="https://github.com/OpenEnergyPlatform/organisation/blob/feature-51-logos-licenses/logo/OpenEnergyFamily_Logo_OpenEnergyKnowledgeGraph_OEKG.png" alt="OpenEnergyFamily_Logo_OpenEnergyKnowledgeGraph_OEKG" width="100px">
+
+<img src="https://github.com/OpenEnergyPlatform/organisation/blob/feature-51-logos-licenses/logo/OpenEnergyFamily_Logo_OpenEnergyOntology.png" alt="OpenEnergyFamily_Logo_OpenEnergyOntology" width="100px">
+
+<img src="https://github.com/OpenEnergyPlatform/organisation/blob/feature-51-logos-licenses/logo/OpenEnergyFamily_Logo_OpenEnergyPlatform.png" alt="OpenEnergyFamily_Logo_OpenEnergyPlatform" width="100px">
 
 ## License
 
