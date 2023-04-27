@@ -33,6 +33,8 @@ theme:
 
 # extensions 
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - admonition
   - toc:
       permalink: 💙
@@ -49,22 +51,23 @@ nav:
   - Home: index.md
   - Open Energy Family:
     - Overview: open-energy-family/index.md
-    - Knowledge transfer: open-energy-family/knowledge-transfer.md
-    - Open Energy Platform: open-energy-family/open-energy-platform.md
-    - Open Energy Database: open-energy-family/open-energy-database.md
-    - Ontologie: open-energy-family/ontologie.md
-    - Workflow automation for Datapreprocessing: open-energy-family/open-process-integration.md
+    - Collaboration: open-energy-family/collaboration.md
     - Community management: open-energy-family/comunity-management.md
-    - Softwaretools: 
-      - open-energy-family/softwaretools/index.md
-      - oedialect: open-energy-family/softwaretools/oedialect.md
-      - oem2orm: open-energy-family/softwaretools/oem2orm.md
-      - oep-client: open-energy-family/softwaretools/oep-client.md
-      - omi: open-energy-family/softwaretools/omi.md
-      - saio: open-energy-family/softwaretools/saio.md
+    - Knowledge transfer: open-energy-family/knowledge-transfer.md
+    - Knowledge representation: 
+      - open-energy-family/ontology/index.md
+      - Open Energy Ontology: open-energy-family/ontology/oeo.md 
+      - Open Energy Knowledgegraph: open-energy-family/ontology/oekg.md #database own section?
+    - Software products: 
+      - open-energy-family/software-products/index.md
+      - Open Energy Platform: open-energy-family/software-products/open-energy-platform.md
+      - Open Energy Database: open-energy-family/software-products/open-energy-database.md #database own section?
+      - Open Energy Databus: open-energy-family/software-products/open-energy-databus.md
+      - Software tools: open-energy-family/software-products/software-tools.md
     - Specification and Templates: 
       - open-energy-family/templates-and-specification/index.md
       - Factsheets: open-energy-family/templates-and-specification/factsheets.md
       - Open Energy Datamodel: open-energy-family/templates-and-specification/open-energy-datamodel.md
       - Open Energy Metadata: open-energy-family/templates-and-specification/open-energy-metadata.md
+    - Datapreprocessing and workflowautomation: open-energy-family/open-process-integration.md
   
