@@ -49,25 +49,36 @@ extra_css:
 # Navigation
 nav:
   - Home: index.md
-  - Open Energy Family:
-    - Overview: open-energy-family/index.md
-    - Collaboration: open-energy-family/collaboration.md
-    - Community management: open-energy-family/comunity-management.md
-    - Knowledge transfer: open-energy-family/knowledge-transfer.md
+  - Community:
+    - Overview: family_community/index.md
+    - Collaborative Development: family_community/collaborative_development.md
+    - Community Management: family_community/comunity_management.md
+    - Contact & Events: family_community/contact.md
+    - Knowledge Transfer: family_community/knowledge_transfer.md
+    - Partner and Projects:
+      - partner/index.md
+      - Partner: family_community/partner/research_partner.md
+      - Research Projects: family_community/partner/research_projects.md
+    - Personas & Use-Cases:
+      - personas/index.md
+      - Personas: family_community/personas/personas.md
+      - Use-Cases: family_community/personas/use-cases.md
+  - Family Members:
+    - Overview: family_members/index.md
     - Knowledge representation: 
-      - open-energy-family/ontology/index.md
-      - Open Energy Ontology: open-energy-family/ontology/oeo.md 
-      - Open Energy Knowledgegraph: open-energy-family/ontology/oekg.md #database own section?
+      - family_members/ontology/index.md
+      - Open Energy Ontology: family_members/ontology/oeo.md 
+      - Open Energy Knowledgegraph: family_members/ontology/oekg.md #database own section?
     - Software products: 
-      - open-energy-family/software-products/index.md
-      - Open Energy Platform: open-energy-family/software-products/open-energy-platform.md
-      - Open Energy Database: open-energy-family/software-products/open-energy-database.md #database own section?
-      - Open Energy Databus: open-energy-family/software-products/open-energy-databus.md
-      - Software tools: open-energy-family/software-products/software-tools.md
+      - family_members/software-products/index.md
+      - Open Energy Platform: family_members/software-products/open-energy-platform.md
+      - Open Energy Database: family_members/software-products/open-energy-database.md #database own section?
+      - Open Energy Databus: family_members/software-products/open-energy-databus.md
+      - Software tools: family_members/software-products/software-tools.md
     - Specification and Templates: 
-      - open-energy-family/templates-and-specification/index.md
-      - Factsheets: open-energy-family/templates-and-specification/factsheets.md
-      - Open Energy Datamodel: open-energy-family/templates-and-specification/open-energy-datamodel.md
-      - Open Energy Metadata: open-energy-family/templates-and-specification/open-energy-metadata.md
-    - Datapreprocessing and workflowautomation: open-energy-family/open-process-integration.md
+      - family_members/templates-and-specification/index.md
+      - Factsheets: family_members/templates-and-specification/factsheets.md
+      - Open Energy Datamodel: family_members/templates-and-specification/open-energy-datamodel.md
+      - Open Energy Metadata: family_members/templates-and-specification/open-energy-metadata.md
+    - Datapreprocessing and workflowautomation: family_members/open-process-integration.md
   

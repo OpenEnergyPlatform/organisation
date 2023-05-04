@@ -1,4 +1,4 @@
-# The Open Energy Family
+# The Open Energy Family Members
 
 The Open Energy Family is an open science framework that aims to support the transition to a more sustainable and renewable energy system. The family focuses on creating and promoting open-source technologies, publicly accessible data, and transparent methods for energy system modeling. It is designed to facilitate collaborative research on solutions for research data management and modeling in the field of energy systems.
 
