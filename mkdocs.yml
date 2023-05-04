@@ -1,8 +1,8 @@
 # Project
-site_name: Open Energy Family Compendium
+site_name: Family Compendium
 site_url: 
-site_description: Write your documentation in Markdown and create a static page for your developer and user community
-docs_dir: 'kompendium'
+site_description: A collection of information and documentation for the Open Energy Family
+docs_dir: 'compendium'
 
 # Configuration
 theme:
@@ -31,7 +31,7 @@ theme:
     - navigation.top
     - toc.follow
 
-# extensions 
+# Extensions
 markdown_extensions:
   - attr_list
   - md_in_html
