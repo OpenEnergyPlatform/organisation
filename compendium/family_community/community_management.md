@@ -21,6 +21,8 @@ of the Open Energy Family and the OEO.
 Their oversight and strategic direction help to ensure that the framework 
 and ontology remain relevant and useful to the energy research community.
 
+You can find the dates on the [Contact](../contact/) page.
+
 ### OEFamily-SC
 
 The OEFamily-SC is responsible for the overall development and strategic 
@@ -51,7 +53,7 @@ to exchange information and review planned and completed tasks.
     - Developing and pursuing strategies to expand and improve the functionality
     - Identifying future areas of application and integrating new technologies and developments
 
-### OSO-SC
+### OEO-SC
 
 The OEO-SC is responsible for overseeing the development of the OEO
 and ensuring its adoption in currently running and planned projects. 
@@ -59,3 +61,6 @@ The committee meets regularly via conference calls and in-person meetings
 to exchange information and review planned and completed tasks. 
 The committee also maintains a continuous exchange with ontology developers 
 through GitHub.
+
+#### Tasks of the OEO-SC
+
