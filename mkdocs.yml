@@ -60,7 +60,7 @@ nav:
       - Partner: family_community/partner/research_partner.md
       - Research Projects: family_community/partner/research_project.md
     - Personas & Use-Cases:
-      - personas/index.md
+      - family_community/personas/index.md
       - Personas: family_community/personas/personas.md
       - Use-Cases: family_community/personas/use-cases.md
   - Family Members:
