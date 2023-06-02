@@ -69,12 +69,12 @@ nav:
       - family_members/knowledge-representation/index.md
       - Open Energy Ontology: family_members/knowledge-representation/oeo.md
       - Open Energy Knowledge Graph: family_members/knowledge-representation/oekg.md #database own section?
-    - Software Products:
-      - family_members/software-products/index.md
-      - Open Energy Platform: family_members/software-products/open-energy-platform.md
-      - Open Energy Database: family_members/software-products/open-energy-database.md #database own section?
-      - Open Energy Databus: family_members/software-products/open-energy-databus.md
-      - Software tools: family_members/software-products/software-tools.md
+    - Software Architecture:
+      - family_members/software-architecture/index.md
+      - Open Energy Platform: family_members/software-architecture/open-energy-platform.md
+      - Open Energy Database: family_members/software-architecture/open-energy-database.md #database own section?
+      - Energy Databus: family_members/software-architecture/energy-databus.md
+      - Software Tools: family_members/software-architecture/software-tools.md
     - Specification and Templates: 
       - family_members/templates-and-specification/index.md
       - Factsheets: family_members/templates-and-specification/factsheets.md
