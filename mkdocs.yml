@@ -65,11 +65,11 @@ nav:
       - Use-Cases: family_community/personas/use-cases.md
   - Family Members:
     - Overview: family_members/index.md
-    - Knowledge representation: 
-      - family_members/ontology/index.md
-      - Open Energy Ontology: family_members/ontology/oeo.md 
-      - Open Energy Knowledgegraph: family_members/ontology/oekg.md #database own section?
-    - Software products: 
+    - Knowledge Representation:
+      - family_members/knowledge-representation/index.md
+      - Open Energy Ontology: family_members/knowledge-representation/oeo.md
+      - Open Energy Knowledge Graph: family_members/knowledge-representation/oekg.md #database own section?
+    - Software Products:
       - family_members/software-products/index.md
       - Open Energy Platform: family_members/software-products/open-energy-platform.md
       - Open Energy Database: family_members/software-products/open-energy-database.md #database own section?
@@ -80,5 +80,5 @@ nav:
       - Factsheets: family_members/templates-and-specification/factsheets.md
       - Open Energy Datamodel: family_members/templates-and-specification/open-energy-datamodel.md
       - Open Energy Metadata: family_members/templates-and-specification/open-energy-metadata.md
-    - Datapreprocessing and workflowautomation: family_members/open-process-integration.md
+    - Open Process Integration: family_members/open-process-integration.md
   
