@@ -7,7 +7,7 @@ docs_dir: 'compendium'
 # Configuration
 theme:
   name: material
-  logo: img/OEP_Energy_Family_04.png
+  logo: img/OpenEnergyFamily_Logo_OpenEnergyFamily_icon.png
   palette:
     # Palette toggle for dark mode
     - scheme: default
