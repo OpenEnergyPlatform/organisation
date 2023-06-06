@@ -1,4 +1,4 @@
-# Welcome to the Open Energy Family Compendium
+# Welcome to the Open Energy Compendium
 
 ## About the Open Energy Family
 The Open Energy Family is a comprehensive open science framework that aims to 
