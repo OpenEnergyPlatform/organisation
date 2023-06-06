@@ -1,13 +1,17 @@
 # Project
-site_name: Family Compendium
+site_name: Open Energy Compendium
 site_url: 
 site_description: A collection of information and documentation for the Open Energy Family
+
+# Repository
+repo_name: OpenEnergyPlatform/organisation
+repo_url: https://github.com/OpenEnergyPlatform/organisation
 docs_dir: 'compendium'
 
 # Configuration
 theme:
   name: material
-  logo: img/OpenEnergyFamily_Logo_OpenEnergyFamily_icon.png
+  logo: img/OpenEnergyFamily_Logo_OpenEnergyFamily_white_simple.png
   palette:
     # Palette toggle for dark mode
     - scheme: default
@@ -42,13 +46,14 @@ markdown_extensions:
 # Customization
 extra:
   generator: false
+  homepage: https://openenergy-platform.org/
 
 extra_css:
   - css/extra.css
 
 # Navigation
 nav:
-  - Home: index.md
+  - Introduction: index.md
   - Community:
     - Overview: family_community/index.md
     - Collaborative Development: family_community/collaborative_development.md
