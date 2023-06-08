@@ -2,8 +2,7 @@ name: gh-pages-compendium
 on:
   push:
     branches:
-      - master
-      - feature/initial-kompendium#52
+      - production
 permissions:
   contents: write
 jobs:
