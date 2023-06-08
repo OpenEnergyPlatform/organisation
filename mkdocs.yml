@@ -1,0 +1,90 @@
+# Project
+site_name: Open Energy Compendium
+site_url: 
+site_description: A collection of information and documentation for the Open Energy Family
+
+# Repository
+repo_name: OpenEnergyPlatform/organisation
+repo_url: https://github.com/OpenEnergyPlatform/organisation
+docs_dir: 'compendium'
+
+# Configuration
+theme:
+  name: material
+  logo: img/OpenEnergyFamily_Logo_OpenEnergyFamily_white_simple.png
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.path
+    - navigation.tracking
+    - navigation.top
+    - toc.follow
+
+# Extensions
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - toc:
+      permalink: 💙
+
+# Customization
+extra:
+  generator: false
+  homepage: https://openenergy-platform.org/
+
+extra_css:
+  - css/extra.css
+
+# Navigation
+nav:
+  - Introduction: index.md
+  - Community:
+    - Overview: family_community/index.md
+    - Collaborative Development: family_community/collaborative_development.md
+    - Community Management: family_community/community_management.md
+    - Contact & Communication: family_community/contact.md
+    - Knowledge Transfer: family_community/knowledge_transfer.md
+    - Partner and Projects:
+      - family_community/partner/index.md
+      - Partner: family_community/partner/research_partner.md
+      - Research Projects: family_community/partner/research_project.md
+    - Personas & Use-Cases:
+      - family_community/personas/index.md
+      - Personas: family_community/personas/personas.md
+      - Use-Cases: family_community/personas/use-cases.md
+  - Family Members:
+    - Overview: family_members/index.md
+    - Knowledge Representation:
+      - family_members/knowledge-representation/index.md
+      - Open Energy Ontology: family_members/knowledge-representation/oeo.md
+      - Open Energy Knowledge Graph: family_members/knowledge-representation/oekg.md #database own section?
+    - Software Architecture:
+      - family_members/software-architecture/index.md
+      - Open Energy Platform: family_members/software-architecture/open-energy-platform.md
+      - Open Energy Database: family_members/software-architecture/open-energy-database.md #database own section?
+      - Energy Databus: family_members/software-architecture/energy-databus.md
+      - Software Tools: family_members/software-architecture/software-tools.md
+    - Specification and Templates: 
+      - family_members/templates-and-specification/index.md
+      - Factsheets: family_members/templates-and-specification/factsheets.md
+      - Open Energy Datamodel: family_members/templates-and-specification/open-energy-datamodel.md
+      - Open Energy Metadata: family_members/templates-and-specification/open-energy-metadata.md
+    - Open Process Integration: family_members/open-process-integration.md
+  
