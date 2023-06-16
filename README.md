@@ -69,7 +69,7 @@ Several individuals across different research projects contribute to the develop
 
 <a href="https://github.com/openego"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2015/08/Header.jpg" alt="Logo open_eGo" width="275px"></a>
 <a href="https://github.com/open-fred"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2016/08/Header.jpg" alt="Logo open_FRED" width="275px"></a>
-<a href="https://reiner-lemoine-institut.de/en/szenariendb/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2018/03/SzenarienDB_Header.png" alt="Logo SzenarienDB" width="275px"></a>
+<a href="https://reiner-lemoine-institut.de/en/szenariendb-2/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2018/03/SzenarienDB_Header.png" alt="Logo SzenarienDB" width="275px"></a>
 <a href="https://reiner-lemoine-institut.de/en/open_modex-2/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/02/open_MODEX_header.jpg" alt="Logo open_MODEX" width="275px"></a>
 <a href="https://reiner-lemoine-institut.de/en/lod-geoss/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2019/09/LOD-GEOSS_Logo.png" alt="Logo LOD-GEOSS" width="275px"></a>
 <a href="https://reiner-lemoine-institut.de/en/automated-comparison-energy-scenarios-sirop/"><img src="https://reiner-lemoine-institut.de/wp-content/uploads/2021/04/SIROP_logo.png" alt="Logo SIROP" width="275px"></a>
