@@ -46,7 +46,6 @@ Below, we present a comprehensive overview of all teams and provide clarificatio
 
 In addition to clarifying the responsibilities, we leverage teams to enhance communication. This is particularly effective on GitHub, where users can mention teams in issues, discussions, or pull requests to reach a group of individuals and increase the likelihood of receiving prompt responses. To contact a specific team, use "@" followed by the team name.
 
-
 To apply for contribution, please get in touch. Take a look at our [contact information](contact.md).
 
 | Role                      | Responsibilities                                                                                                          | [GitHub Rights](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization#permissions-for-each-role) |
