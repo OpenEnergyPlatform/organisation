@@ -38,6 +38,11 @@ equitable energy system.
 ## Collab. SDP
 
 ## GitHub Teams
+We have different _Developer Roles_ which are implemented as [_GitHub Teams_](https://github.com/orgs/OpenEnergyPlatform/teams)
+to coordinate the development.<br>
+They can only be seen by members of the community.
+
+Below, we present a comprehensive overview of all teams and provide clarification on the identified responsibilities for each role.
 
 To apply for contribution, please get in touch. Take a look at our [contact information](contact.md).
 
