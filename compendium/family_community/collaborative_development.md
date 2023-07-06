@@ -38,11 +38,11 @@ equitable energy system.
 ## Collab. SDP
 
 ## GitHub Teams
-We have different _Developer Roles_ which are implemented as [_GitHub Teams_](https://github.com/orgs/OpenEnergyPlatform/teams)
+We have specific _Softwaredeveloper Roles_ which are implemented as [_GitHub Teams_](https://github.com/orgs/OpenEnergyPlatform/teams/oef-software-developer/teams)
 to coordinate the development.<br>
 They can only be seen by members of the community.
 
-Below, we present a comprehensive overview of all teams and provide clarification on the identified responsibilities for each role.
+Below, we present a comprehensive overview of all teams dedicated to the developement of software and provide clarification on the identified responsibilities for each role.
 
 In addition to clarifying the responsibilities, we leverage teams to enhance communication. This is particularly effective on GitHub, where users can mention teams in issues, discussions, or pull requests to reach a group of individuals and increase the likelihood of receiving prompt responses. To contact a specific team, use "@" followed by the team name.
 
