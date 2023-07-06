@@ -39,6 +39,8 @@ equitable energy system.
 
 ## GitHub Teams
 
+To apply for contribution, please get in touch. Take a look at our [contact information](contact.md).
+
 | Role                      | Responsibilities                                                                                                          | GitHub Rights |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------|
 | oep-domain-expert-energy-modelling | - Answers domain-specific questions<br>- Ensures that functionalities solve or support domain-specific problems           | Read          |
