@@ -46,7 +46,7 @@ Below, we present a comprehensive overview of all teams and provide clarificatio
 
 To apply for contribution, please get in touch. Take a look at our [contact information](contact.md).
 
-| Role                      | Responsibilities                                                                                                          | GitHub Rights |
+| Role                      | Responsibilities                                                                                                          | [GitHub Rights](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization#permissions-for-each-role) |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------|
 | oep-domain-expert-energy-modelling | - Answers domain-specific questions<br>- Ensures that functionalities solve or support domain-specific problems           | Read          |
 | oep-community-manager     | - Moderates issues and discussions<br>- Enforces the "Code of Conduct" and "Contributing" guidelines<br>- Maintains the guidelines       | Triage        |
