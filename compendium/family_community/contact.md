@@ -9,7 +9,9 @@ We use the _GitHub Discussions_ and _GitHub Issues_.
 
 We have different [_GitHub Teams_](https://github.com/orgs/OpenEnergyPlatform/teams)
 to coordinate the development.<br>
-They can only be seen by members of the community.
+The link provided above is accessible exclusively to members of our community. 
+To gain an understanding of the teams and their respective responsibilities, we recommend reading our [Developer Role](collaborative_development.md#github-teams) overview.
+
 
 If you want to participate in the development, we are happy to add you to the 
 corresponding teams.
