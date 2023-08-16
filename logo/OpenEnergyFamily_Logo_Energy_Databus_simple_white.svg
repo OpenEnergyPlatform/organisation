@@ -7,80 +7,124 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
-   inkscape:export-filename="B:\git\github\OpenEnergyPlatform\organisation\logo\OpenEnergyFamily_Logo_Energy_Databus_simple.png"
+   width="400mm"
+   height="400mm"
+   viewBox="0 0 399.99998 399.99999"
    version="1.1"
    id="svg3908"
-   x="0px"
-   y="0px"
-   viewBox="0 0 1512 1512"
-   style="enable-background:new 0 0 1512 1512;"
-   xml:space="preserve"
-   sodipodi:docname="OpenEnergyFamily_Logo_Energy_Databus_simple.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"><metadata
-   id="metadata54"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-   id="defs52" /><sodipodi:namedview
-   inkscape:document-rotation="0"
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="2880"
-   inkscape:window-height="1526"
-   id="namedview50"
-   showgrid="false"
-   inkscape:zoom="0.52910053"
-   inkscape:cx="756"
-   inkscape:cy="756"
-   inkscape:window-x="-11"
-   inkscape:window-y="-11"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="svg3908" />
-<style
-   type="text/css"
-   id="style2">
-	.st0{enable-background:new    ;}
-	.st1{fill:#1F567D;}
-</style>
-<g
-   style="fill:#ffffff"
-   id="layer1">
-	
-	<path
-   style="fill:#ffffff"
-   id="path842"
-   class="st1"
-   d="m 743.25,37.64 c -390.8,0 -707.6,316.8 -707.6,707.6 v 0 c 0.2,220.9 103.6,429.1 279.6,562.7 l 50.1,-68.2 c -154.3,-117.6 -245,-300.4 -245.3,-494.5 0,-344.2 279,-623.2 623.2,-623.2 v 0 c 344.2,0 623.2,279 623.2,623.2 v 0 c -0.2,195.5 -92.2,379.6 -248.5,497.2 l 49.8,67.8 c 177.9,-133.4 282.8,-342.7 283.1,-565 0,-390.8 -316.8,-707.6 -707.6,-707.6 z" />
-</g>
-<g
-   style="fill:#ffffff"
-   id="g47">
-	<path
-   style="fill:#ffffff"
-   class="st1"
-   d="M1069.4,1056.4H973l3.6-477.6l-84.5-137L442.5,443l0.7-89.4h626.1L1069.4,1056.4L1069.4,1056.4z M998.2,1031.4   h46.1V378.6H468l-0.3,39.4l438.3-1.3l95.7,155.1L998.2,1031.4z"
-   id="path39" />
-	<path
-   style="fill:#ffffff"
-   class="st1"
-   d="M666.5,1055H443.1V492.3h97.7L666.5,657V1055z M468.1,1030h173.4V665.4l-113-148.2h-60.4V1030z"
-   id="path41" />
-	<path
-   style="fill:#ffffff"
-   class="st1"
-   d="M799.7,1055h-91V655.4L593.5,492.3h112.8l93.5,128.9L799.7,1055L799.7,1055z M733.7,1030h41V629.2l-81.2-112   h-51.8l92,130.3V1030z"
-   id="path43" />
-	<path
-   style="fill:#ffffff"
-   class="st1"
-   d="M927.7,1055h-86.5V611l-81.7-118.8h103.2l64.9,92.9L927.7,1055L927.7,1055z M866.3,1030h36.5V593.1l-52.9-75.8   h-42.7l59.1,86L866.3,1030L866.3,1030z"
-   id="path45" />
-</g>
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="OpenEnergyFamily_Logo_Energy_Databus_simple_white.svg"
+   inkscape:export-filename="\\FS01\RL-Institut\04_Projekte\207_SzenarienDB\03-Projektinhalte\AP4_Umsetzung\OEP-Design\OpenEnergyFamily\Final\OpenEnergyFamily_Logo_OEMetadata_full.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs3902">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16-1">
+      <path
+         d="M 0,1.8311e-4 H 567 V 567.00018 H 0 Z"
+         id="path18-7"
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1513.5922"
+     inkscape:cy="997.80572"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="2869"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
+    <sodipodi:guide
+       position="99.999995,455.30128"
+       orientation="-1,0"
+       id="guide859"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="428.70744,321.0119"
+       orientation="0,1"
+       id="guide861"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="423.41578,103.29761"
+       orientation="0,1"
+       id="guide863"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="299.99999,426.78012"
+       orientation="-1,0"
+       id="guide853"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3905">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(170.53217,180.4797)">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 29.468047,-178.4797 A 188.15775,188.15775 0 0 0 -158.68993,9.6778073 188.15775,188.15775 0 0 0 -84.351348,159.31312 l 13.324235,-18.13946 A 165.70712,165.70712 0 0 1 -136.23911,9.6778073 165.70712,165.70712 0 0 1 29.468047,-156.02939 165.70712,165.70712 0 0 1 195.17529,9.6778073 165.70712,165.70712 0 0 1 129.10335,141.89041 l 13.24621,18.03249 A 188.15775,188.15775 0 0 0 217.62558,9.6778073 188.15775,188.15775 0 0 0 29.468047,-178.4797 Z"
+       id="path842"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#ffffff"
+       transform="matrix(0.31932559,0,0,0.3097813,-212.01895,-211.03028)"
+       id="g47">
+      <path
+         style="fill:#ffffff"
+         class="st1"
+         d="M 1069.4,1056.4 H 973 l 3.6,-477.6 -84.5,-137 -449.6,1.2 0.7,-89.4 h 626.1 z m -71.2,-25 h 46.1 V 378.6 H 468 l -0.3,39.4 438.3,-1.3 95.7,155.1 z"
+         id="path39" />
+      <path
+         style="fill:#ffffff"
+         class="st1"
+         d="M 666.5,1055 H 443.1 V 492.3 h 97.7 L 666.5,657 Z M 468.1,1030 H 641.5 V 665.4 l -113,-148.2 h -60.4 z"
+         id="path41" />
+      <path
+         style="fill:#ffffff"
+         class="st1"
+         d="m 799.7,1055 h -91 V 655.4 L 593.5,492.3 h 112.8 l 93.5,128.9 z m -66,-25 h 41 V 629.2 l -81.2,-112 h -51.8 l 92,130.3 z"
+         id="path43" />
+      <path
+         style="fill:#ffffff"
+         class="st1"
+         d="M 927.7,1055 H 841.2 V 611 L 759.5,492.2 h 103.2 l 64.9,92.9 z m -61.4,-25 h 36.5 V 593.1 l -52.9,-75.8 h -42.7 l 59.1,86 z"
+         id="path45" />
+    </g>
+  </g>
 </svg>
