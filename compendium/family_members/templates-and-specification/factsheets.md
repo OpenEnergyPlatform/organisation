@@ -24,3 +24,5 @@ The Model Factsheets ..
 
 ## Scenario Factsheet
 
+The Scenario Factsheets provide some dedicated information about specific 
+scenarios for which projection data is available on the OEP. 
