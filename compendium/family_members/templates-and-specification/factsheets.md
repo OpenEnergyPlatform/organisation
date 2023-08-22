@@ -24,5 +24,11 @@ The Model Factsheets ..
 
 ## Scenario Factsheet
 
-The Scenario Factsheets provide some dedicated information about specific 
-scenarios for which projection data is available on the OEP. 
+The Scenario Factsheets provide some dedicated information about specific
+scenarios for which projection data is available on the OEP.
+They are based on the concepts available in the Open Energy Ontology (OEO)
+and the Open Energy Knowledge Graph (OEKG).
+This enables the OEP to include information on the scenario projection
+data available in the database, the corresponding frameworks and models applied,
+and the study context. 
+The factsheets will make these relations visible and usable.
