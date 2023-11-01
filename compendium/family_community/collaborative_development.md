@@ -54,12 +54,21 @@ Our iterative process is presented here as an overview and spans the various pha
   <figcaption>Image caption</figcaption>
 </figure>
 
+<figure markdown>
+  ![Image title](../img/dev-process/Iteration-increments-with-details-2023-10-24-1338.png){ width="500" }
+  <figcaption>Image caption</figcaption>
+</figure>
+
 Over time, the increments are further developed, and an optimal solution is approached. The advantage lies in the fact that each increment is immediately available to all users as a release. This allows for feedback to be incorporated into each subsequent iteration, particularly to ensure user-friendliness.
 
 <figure markdown>
   ![Image title](../img/dev-process/ongoing-developement-iterations-2023-10-24-1338.png){ width="800" }
   <figcaption>Image caption</figcaption>
 </figure>
+
+Going through the phases and the associated effort beyond writing code and releasing software has various advantages. In the short term, it ensures that work is done properly and in line with the agreed-upon requirements for craftsmanship and product. In the long term, it aims to keep the software continuously maintainable and enable further development and reusability. For research, this is a particular focus that contributes to sharing software as research results in a traceable manner and finding synergies.
+
+Below we show all phases in detail. The detailed information is relevant to facilitate teamwork. The goal is to enable a transparent and predictable way of working. Even if the work is not done directly in a team, it is still important to follow the steps to document development decisions in a traceable manner. Working with GitHub as a development platform should be kept in mind. Many additional pieces of information can be documented there, and communication with others is greatly simplified. Communication in development teams and even at a higher level within the entire community or with individuals involved in development should ideally always be up to date. This way, the overall structure of the software architecture should always be known.
 
 ### Phase 1
 
