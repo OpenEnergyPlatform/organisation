@@ -39,7 +39,27 @@ equitable energy system.
 
 ## Collaborative software development process
 
-### Iterative and Incrementally
+The following outlines how software development is implemented collaboratively in an open-source and research environment. The previously described concept of collaborative development sets the framework for software development here.
+
+The essential components through which software development is carried out include a tailored iterative development process aligned with our requirements and a role concept. These components will be described in detail, but it should be noted that additional practices must be employed to implement development in practice. An example is development using Git and GitHub. For collaboration, we have created detailed guidelines for naming Git branches and templates for issue creation, which are linked to the appropriate locations.
+
+### Develope Iterative & Incrementally
+
+We adhere to the common iterative model for software development and the software lifecycle. In the Open Energy Family, we primarily focus on continuous development of our software, which is developed and further improved in various research projects. For this reason, we view development as a process that must enable organic growth. At the same time, we recognize the need to handle various types of requirements, including fixed and long-term requirements from research projects, as well as flexible and short-term requirements arising either from users or the identification of new requirements during development. Such an approach is described in the literature as a Hybrid Development Model, as we do not exclusively follow an agile approach and do not strictly adhere to the Waterfall model in project implementation.
+
+Our iterative process is presented here as an overview and spans the various phases of the software lifecycle. The result is an increment that is to be understood as a specific version of the software. An increment can be released and serves as the starting point for the subsequent iteration. It is important to highlight the integrated documentation and testing steps. By incorporating these tasks as integral parts of development, we ensure complete documentation, goal-oriented development through acceptance testing, and the functionality of the software at all times.
+
+<figure markdown>
+  ![Image title](../img/dev-process/iteration-and-increments-2023-10-24-1338.png){ width="500" }
+  <figcaption>Image caption</figcaption>
+</figure>
+
+Over time, the increments are further developed, and an optimal solution is approached. The advantage lies in the fact that each increment is immediately available to all users as a release. This allows for feedback to be incorporated into each subsequent iteration, particularly to ensure user-friendliness.
+
+<figure markdown>
+  ![Image title](../img/dev-process/ongoing-developement-iterations-2023-10-24-1338.png){ width="800" }
+  <figcaption>Image caption</figcaption>
+</figure>
 
 ### Phase 1
 
