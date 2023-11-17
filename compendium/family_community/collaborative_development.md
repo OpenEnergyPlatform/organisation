@@ -1,6 +1,6 @@
 # Collaborative Development
 
-## Our concept of collaborative development
+__Our concept of collaborative development__
 
 Researchers who participate in the development of the Open Energy Family are
 known as "core developers". Their work involves capturing scientific processes
@@ -34,7 +34,9 @@ equitable energy system.
 
 <figure markdown>
   ![Image title](../img/oef-concept-collaboration-developer.png){ width="600" }
-  <figcaption>Image caption</figcaption>
+  <figcaption>
+    The figure shows the structure of the community (purely in regard to development): The total community is divided into two groups, which were defined in detail as personas. As shown, both groups can participate in development, but the core developers take on a special responsibility here and usually work with the support of funded research projects.
+  </figcaption>
 </figure>
 
 ## Collaborative software development process
@@ -50,59 +52,70 @@ We adhere to the common iterative model for software development and the softwar
 Our iterative process is presented here as an overview and spans the various phases of the software lifecycle. The result is an increment that is to be understood as a specific version of the software. An increment can be released and serves as the starting point for the subsequent iteration. It is important to highlight the integrated documentation and testing steps. By incorporating these tasks as integral parts of development, we ensure complete documentation, goal-oriented development through acceptance testing, and the functionality of the software at all times.
 
 <figure markdown>
-  ![Image title](../img/dev-process/iteration-and-increments-2023-10-24-1338.png){ width="500" }
-  <figcaption>Image caption</figcaption>
-</figure>
-
-<figure markdown>
-  ![Image title](../img/dev-process/Iteration-increments-with-details-2023-10-24-1338.png){ width="500" }
-  <figcaption>Image caption</figcaption>
+  ![Image title](../img/dev-process/iterative-dev-overview.png){ width="600" }
+  <figcaption>
+   Overview of an iteration of the collaborative software development process of the OpenEnergyFamily. The circle shows the software life cycle, which has been adapted to the specific requirements. The yellow boxes give an impression of the process used for each phase. A summary of the process is then shown next to it.
+  </figcaption>
 </figure>
 
 Over time, the increments are further developed, and an optimal solution is approached. The advantage lies in the fact that each increment is immediately available to all users as a release. This allows for feedback to be incorporated into each subsequent iteration, particularly to ensure user-friendliness.
 
 <figure markdown>
   ![Image title](../img/dev-process/ongoing-developement-iterations-2023-10-24-1338.png){ width="800" }
-  <figcaption>Image caption</figcaption>
+  <figcaption>
+    Ongoing development is carried out through several iterations with the aim of regularly publishing a new software version. This ensures that the development status and the publicly available software version are not too far apart.
+  </figcaption>
 </figure>
 
 Going through the phases and the associated effort beyond writing code and releasing software has various advantages. In the short term, it ensures that work is done properly and in line with the agreed-upon requirements for craftsmanship and product. In the long term, it aims to keep the software continuously maintainable and enable further development and reusability. For research, this is a particular focus that contributes to sharing software as research results in a traceable manner and finding synergies.
 
 Below we show all phases in detail. The detailed information is relevant to facilitate teamwork. The goal is to enable a transparent and predictable way of working. Even if the work is not done directly in a team, it is still important to follow the steps to document development decisions in a traceable manner. Working with GitHub as a development platform should be kept in mind. Many additional pieces of information can be documented there, and communication with others is greatly simplified. Communication in development teams and even at a higher level within the entire community or with individuals involved in development should ideally always be up to date. This way, the overall structure of the software architecture should always be known.
 
-### Phase 1
+### Developement phases
+
+In a nutshell, the collaborative software development process defines the approach from the vague idea through getting involved & start planning, testing & implementation to release and finally installation and operation. The aspect of collaborative cooperation is particularly emphasized here, as our software products are freely usable open source software. In the long term, we strive for community-driven implementation during development. In doing so, we are following the idea that the OpenEnergyFamily can be used as a framework for various research projects and thus expanded. The vision is to work together on the implementation of optimal solutions. The community benefits from the freely usable results & infrastructure, the available expertise and the opportunity to contribute its own ideas and thus actively participate in shaping them. We want to follow the Open Science principles.
+
+#### Phase 1: Start, Requirements & Planning
 
 <figure markdown>
   ![Image title](../img/dev-process/phase-1.png){ width="300" }
-  <figcaption>Image caption</figcaption>
 </figure>
 
-### Phase 2
+Change Request
+
+Decision Gate
+
+- hotfix
+- feature
+
+Prioritize & Plan
+
+Form development team (1-n developer)
+
+Specify requirements
+
+#### Phase 2: Specification & Design (User interface & Software functionality)
 
 <figure markdown>
   ![Image title](../img/dev-process/phase-2.png){ width="300" }
-  <figcaption>Image caption</figcaption>
 </figure>
 
-### Phase 3
+#### Phase 3: Implementation
 
 <figure markdown>
   ![Image title](../img/dev-process/phase-3.png){ width="400" }
-  <figcaption>Image caption</figcaption>
 </figure>
 
-### Phase 4
+#### Phase 4: Acceptance test & release
 
 <figure markdown>
   ![Image title](../img/dev-process/phase-4.png){ width="300" }
-  <figcaption>Image caption</figcaption>
 </figure>
 
-### Phase 5
+#### Phase 5: Delivery, Installation & Operation
 
 <figure markdown>
   ![Image title](../img/dev-process/phase-5.png){ width="400" }
-  <figcaption>Image caption</figcaption>
 </figure>
 
 ## GitHub Teams
