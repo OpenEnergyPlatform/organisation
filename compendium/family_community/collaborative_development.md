@@ -81,18 +81,79 @@ In a nutshell, the collaborative software development process defines the approa
   ![Image title](../img/dev-process/phase-1.png){ width="300" }
 </figure>
 
-Change Request
+__Summary__
 
-Decision Gate
+Which goals should be achieved in the 1st phase:
 
-- hotfix
-- feature
+Requirements are created as informal textual descriptions. Information about purpose, users, use cases, functions, priority, and open questions is specified. It is clearly described what criteria must be met for the requirement to be fulfilled.
+For each requirement or related requirements, an issue is created on GitHub and filled out according to the guidelines from an issue template.
+The development project is created as a project on GitHub, and relevant issues are added.
+The development team is assigned to the relevant issues.
 
-Prioritize & Plan
+__Step 1 - Change Request:__
 
-Form development team (1-n developer)
+Initially, a change request is submitted or created, akin to gathering requirements as a foundation for specifying software development requirements in the final step of this phase.
 
-Specify requirements
+Communication of a change request typically occurs through GitHub using the ticket system (Issues) or the discussion area. For more complex issues, discussion in a developer meeting is also possible. A change request doesn't need to be qualitatively extensive; the focus is on documenting a need, with specification happening later.
+
+Predefined requirements from research projects and specific user needs (user requirements) are the primary sources for requirements included in most change requests. Other potential sources include simple ideas from the community, considered as user requirements. The difference is that there's no immediate idea about what and how to implement, rather a vague idea that needs more specification.
+
+___Errors & Bugfixes___
+
+Additionally, addressing software development errors is among the possible change requests. Errors are a special case, as it's not necessary to go through all the steps of the first phase since what needs to be developed is already clear. Generally, errors not caught by automated tests are discovered in user testing (Phase 4) or during software use (Phase 5: Operation). It's crucial to determine whether an error requires new development, as the functionality cannot otherwise be used. In such cases, it may be necessary to complete all phases. However, most errors are of minor scope and can be resolved quickly. Hence, the subsequent steps of the first and second phases can be skipped, and implementation (error correction) in Phase 3 can start directly. This is referred to as a "BugFix."
+
+Once a change request is submitted, especially if it involves a new feature, implementation cannot start immediately. Changes or requirements may also be interconnected. To maintain an overview of all changes during development, prioritization of change requests is done, and the current development project is planned.
+
+Involved developer roles:
+
+- oep-community-manager
+
+__Step 2 - Prioritization & Planning:__
+
+Prioritizing change requests and requirements, planning the current development project, and integrating it into the overarching development roadmap are tasks in that are included in the step. This is crucial for breaking down the long-term development into smaller work-packages, working towards an overarching goal. The roadmap outlines the long-term development plan roughly, providing developers with an idea of the major development goals. Various projects are currently available on GitHub, and future milestones will be created for them.
+
+To prepare for prioritization, all change requests and requirements logged on GitHub as Issues are automated into a backlog. The backlog, a list on GitHub, collects all available requirements (Issues). Subsequently, prioritization is conducted to determine if a change, for example, should be implemented in the Open Energy Platform. If a change request is deemed relevant after prioritization, its placement in the current development workflow is decided. This is necessary when other developments must be completed first or priorities lie in different task areas. If a change request aligns with the ongoing project and can be implemented immediately after prioritization. In this case it is scheduled for an upcoming development project, providing a rough timeframe for development. Occasionally, specific, binding deadlines are set, impacting prioritization – for instance, if a new function is crucial for a research project's work package and must be presented in a meeting.
+
+Requirements can change during development, and new ones may emerge. Therefore, allocating requirements to a specific release is not always fixed. Unimplemented requirements at a release's launch are scheduled for the subsequent release. Planning requirements for a release announces the start of implementation, signaling that the following steps and phases of the development process will be undertaken. The number of iterations for requirement completion is not predefined.
+
+Core developers play a significant role in prioritization, given their need to oversee current and upcoming development steps. The development principle "Release early, release often" is generally followed to promptly showcase users with ongoing developments.
+
+Once it's decided that a change request should be implemented, the next steps can be taken.
+
+Involved developer roles:
+
+- oep-product-owner
+- oep-expert
+- oep-software-developer
+
+__Step 3 - Development Team:__
+
+Establishing a development team is essential to clearly distribute responsibilities and foster transparency within the community. While individual efforts can implement development projects, it is generally advisable to form a team. This facilitates practices such as the 4-eye principle from Extreme Programming, where implementation is carried out collaboratively, ensuring a constructive distribution of responsibilities. Common team divisions include Frontend and Backend developers or Developers and Domain Experts. A development team takes on various responsibilities, including executing the subsequent steps of the development process, addressing content-related development queries, documenting and communicating the current development status. It is also assumed that a developer or team adheres to the guidelines established for participation in the development. For instance, various documents are provided in each GitHub repository, with special attention to the CONTRIBUTING.md document.
+
+Involved developer roles:
+
+- oep-domain-expert-energy-modelling
+- oep-ui-ux-developer
+- oep-software-engineer
+- oep-junior-developer
+- oep-expert
+
+__Step 4 - Create and Specify Requirements:__
+
+This step focuses on specifying the change request from the initial phase. The goal is to develop a coordinated system specification, serving as the basis for the detailed technical implementation. Since the desired changes are broadly known, the next step is to specify what the change request includes in terms of concrete requirements (functional solution).
+
+When a new functionality (feature) is requested with the change request, it is recommended to first establish a consistent naming convention for the feature. This is crucial for referencing the new functionality in communication. For example, in the development of a new feature for the Open Energy Platform, the functionality was named the "Open Annotation Tool."
+
+Assume a specific but broadly formulated change request for the OpenEnergyPlatform: "I need a button to initiate an Open Peer Review." This generates numerous detailed requirements such as "Where is the button visible?" and "Who can activate the button?" Additionally, the process of the Open Peer Review is not clear. Therefore, it is necessary to design the process and adapt it for implementation in a web application. These various detailed or extensive requirements are typically identified in an analysis phase, often involving a brainstorming session with as many stakeholders as possible. The result is the specification of the software system, which is then aligned with the change request to validate that the software system can fulfill the needs of users. Since various stakeholders are involved in this process, and the specification is systematically developed, a coordinated system specification is established.
+
+Involved developer roles:
+
+- oep-product-owner
+- oep-domain-expert-energy-modelling
+- oep-ui-ux-developer
+- oep-software-engineer
+- oep-junior-developer
+- oep-expert
 
 #### Phase 2: Specification & Design (User interface & Software functionality)
 
