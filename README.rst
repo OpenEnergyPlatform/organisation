@@ -1,8 +1,7 @@
-﻿.. image:: https://user-images.githubusercontent.com/14353512/185425447-85dbcde9-f3a2-4f06-a2db-0dee43af2f5f.png
-   :align: left
-   :target: https://github.com/rl-institut/super-repo/
-   :alt: Repo logo
-
+﻿.. figure:: https://user-images.githubusercontent.com/14353512/185425447-85dbcde9-f3a2-4f06-a2db-0dee43af2f5f.png
+    :align: left
+    :target: https://github.com/rl-institut/super-repo/
+    :alt: Repo logo
 
 ==============
 Organisation
