@@ -4,6 +4,7 @@
     :target: https://github.com/rl-institut/super-repo/
     :alt: Repo logo
 
+
 ==============
 Organisation
 ==============
@@ -15,6 +16,10 @@ Organisation
    :alt: OpenEnergyPlatform
    :target: https://openenergy-platform.org/
 
+.. contents::
+    :depth: 2
+    :local:
+    :backlinks: top
 
 Open Energy Family - Organisation
 ==================================
@@ -26,7 +31,7 @@ Our goal is to provide users with access to the latest information and tools, so
 For more information about the OEFamily and the OEP, please visit our website at https://openenergy-platform.org/about/.
 
 The Open Energy Family Members
--------------------------------
+==================================
 
 Like many families, the Open Energy Family is a vast and ever-expanding community.
 Some of our family members are well-known and prominent, while others may be less visible but equally important.
@@ -77,26 +82,26 @@ Together, we form a strong and supportive circle, dedicated to the development a
 For each of the above entities, a brief description is provided, along with relevant links for more information and access to the respective platforms or repositories.
 
 Projects
---------
+==================================
 
 Several individuals across different research projects contribute to the development of the Open Energy Family. These projects include open_eGo, open_FRED, SzenarienDB, open_MODEX, LOD-GEOSS, and SIROP.
 
 Partners
---------
+==================================
 
 Partner institutions currently working on the Open Energy Family include Uni Magdeburg, RLI, EUF, ZNES, DLR, Hereon (ehem. HZG), Fraunhofer IEE, Öko-Institut, FZJ, InfAI, PIK, IER, fortiss, and TUM.
 
 Licenses
---------
+==================================
 
 The Open Energy Family follows the ideal of Open Science. Thus all material (Code, Data, Artwork) is licensed with a suitable open license.
 
 Acknowledgment
---------------
+==================================
 
 The mentioned projects are funded by the Federal Ministry for Economic Affairs and Climate Action (BMWK), coordinated by the Projektträger Jülich (PTJ), and supported by the Reiner Lemoine Stiftung (RLS).
 
 Contribute
-----------
+==================================
 
 Get involved and contribute! Anyone is invited to develop the Open Energy Family.
