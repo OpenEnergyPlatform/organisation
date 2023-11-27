@@ -83,6 +83,7 @@ nav:
       - Software Tools: family_members/software-architecture/software-tools.md
     - Specification and Templates: 
       - family_members/templates-and-specification/index.md
+      - Scenario Bundles: family_members/templates-and-specification/scenario-bundles.md
       - Factsheets: family_members/templates-and-specification/factsheets.md
       - Open Energy Datamodel: family_members/templates-and-specification/open-energy-datamodel.md
       - Open Energy Metadata: family_members/templates-and-specification/open-energy-metadata.md
