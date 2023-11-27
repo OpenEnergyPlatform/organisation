@@ -22,12 +22,10 @@ OEMetadata are semi-strucutred and designed to accompany the data themselves. Th
   <figcaption>Tabular Data</figcaption>
 </figure>
 
-
-
 When designing OEMetadata the following existing standards and agreements were considered:
 
 - [Dublin Core](https://www.dublincore.org/specifications/dublin-core/) -> Documenting digital documents
-- [Data Package](https://specs.frictionlessdata.io/data-package/) -> A container format for in a single 'package'.
+- [Frictionless Data Package](https://specs.frictionlessdata.io/data-package/) -> A container format for in a single 'package'.
 - [ISO_19115](https://www.iso.org/standard/53798.html) -> Geodata
 - [INSPIRE](https://rdamsc.bath.ac.uk/msc/m66) -> Regulation on administrative and other specialized Geodata
 - [DataCite](https://datacite.org/) -> Metadata Schema for data citations
@@ -35,13 +33,19 @@ When designing OEMetadata the following existing standards and agreements were c
 - [PROV](https://www.w3.org/2001/sw/wiki/PROV) -> W3C specification providing a vocabulary to interchange provenance information
 - [DCAT-AP](https://op.europa.eu/en/web/eu-vocabularies/dcat-ap) -> Application profile for data portals in Europe based on the Data Catalog Vocabulary
 
-They shaped OEMetadata to varying degrees. Some of them were too general, others
-too specific. The standards needed to be able to describe timeseries, geodata
-and parameter collections, work with data produced by machines, as well as
-collaborative collections of data.
+They shaped OEMetadata to varying degrees. Some of them were too general, others too specific. The following requirements lead us to define our own standard:
 
-The resulting standard is based on Frictionless Data Packages. The file format is
-JSON (and JSON-LD). In it's simplest form a Tabular Data Package is a csv file containing data, accompanied by a JSON file which describes the name and structure of the data. OEMetadata take the standard set of keys and possible values and extend it with ones useful for energy research. It is inspired by Dublin Core, INSPIRE and DataCite. The 
+- Compatibility with csv and database tables
+- machine- _and_ human readability
+- Coverage of all aspects of metadata
+- Coverage of all data and tailoring to energy system analysis
+- Compliance with FAIR criteria
+- Extensibility
+- Well defined compatibility with ontology and linked open data
+- Compatibility with DCAT-AP was originally planned, but the standard was found partly incompatible with datapackages
+- Compatible with all: timeseries, geodata, parameter collections, data produced by machines, data collaboratively collected
+
+Our concept to include ontology references is depiced in a poster ([pdf](../../pdf/2022-03-08_Poster_OEMetadata_OEO.pdf)) which was created during the development stage. The resulting standard is based on Data Packages. The file format is JSON (and JSON-LD). In it's simplest form a Tabular Data Package is a csv file containing data, accompanied by a JSON file which describes the name and structure of the data. OEMetadata take the standard set of keys and possible values and extend it with ones useful for energy research. It is inspired by Dublin Core, INSPIRE and DataCite. The 
 development process is organized on [GitHub](https://github.com/OpenEnergyPlatform/oemetadata) and open for everyone to see and
 participate in. The repository contains the following useful files:
 
