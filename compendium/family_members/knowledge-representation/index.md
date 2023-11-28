@@ -1,2 +1,3 @@
 # Knowledge Representation
 
+This section describes the Open Energy Ontology, which is used to record and digitize the knowledge from energy system modelling in detail, and the Open Energy Knowledge Graph, which makes it possible to digitally map certain objects, concepts and relationships. This contributes to a better transparency of the concepts in order to make the energy system models and, in particular, the data more transparent and reusable. These technologies are used in the Open Energy Family in particular for the comparability of scenario data that is used as input and output data in a model.

@@ -4,6 +4,11 @@ The Open Energy Ontology (OEO) is created as a domain ontology within the field
 of energy system modelling. 
 It is growing constantly and under a regular release cycle.
 
+!!! info "Access the Open Energy Ontology"
+    <https://openenergy-platform.org/ontology/>
+
+    <https://github.com/OpenEnergyPlatform/ontology>
+
 ## Domain ontology: What is that?
 
 An ontology is a formal collection of terms and relationships between those 
@@ -25,3 +30,5 @@ Ontologies can be used for multiple different purposes, which is why they are al
 The OEO is developed within the scope of the Open Energy Family. Nevertheless, it is developed as an ontology for the whole energy system modelling area. We explicitly want it to be used in other contextes and use cases as well.
 Where and how can I contribute?
 Anyone is invited to contribute to OEO development as this is a community-driven process. OEO development takes place on GitHub. We have some helpful guidelines on the workflow and a wiki providing detailed information. Welcome! We invite you to participate. If you have questions, please reach out via the OEP contact form. We can then facilitate someone who can follow up on your question. 
+
+
