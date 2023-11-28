@@ -4,7 +4,6 @@ The Open Energy Family is an open science framework that aims to support the tra
 
 The project has already achieved considerable research success and is continuously being developed in state-funded research projects. The framework prioritizes openness, transparency, and accessibility to support the collaborative development of the framework.
 
-
 <figure markdown>
   ![Image title](../img/overview-oef-topics.png){ width="400" }
   <figcaption>Image caption</figcaption>
@@ -33,19 +32,8 @@ The diverse possibilities of using the Open Energy Platform or working with the 
 
 ## Family members
 
-As a framework, the Open Energy Family is continuously growing and has become quite substantial in content. The framework has a heterogeneous set of members, some of which are well-known and prominent, while others are smaller and less noticeable. Some members have their own repositories, while others are directly attached to other members. Together, they form a strong circle for working with open data and open science.
+As a framework, the Open Energy Family is continuously growing and has become quite substantial in content. The framework has a heterogeneous set of members, some of which are well-known and prominent, while others are smaller and less noticeable. Some members have their own repositories, while others are directly attached to other members. Together, they form a strong circle for working with open data and open science. The Open Energy Platform has a special position here, as it offers the use of most of the technical tools from the framework by providing user-friendly interfaces. In this respect, the platform is particularly visible and bundles all developments.
 
 <figure markdown>
   ![Image title](../img/OEP_Energy_Family_04.png){ width="600" }
-  <figcaption>Image caption</figcaption>
-</figure>
-
-
-## Access the live framework
-
-The Open Energy Platform plays a special role in the framework as the web platform serves as the main interface for users. The Open Energy Platform provides various services (REST API) and functions for users, which are freely accessible over the internet. This allows users to programmatically integrate the interfaces into their applications or models, for example, to upload data automatically. The user-friendly and continuously evolving interface of the Open Energy Platform also simplifies data management for transparent energy system data. Most of the tools of the framework are available to users without the need for them to install them themselves. The software tools can also be installed locally, providing users with different ways to access the Open Energy Platform and the Open Energy Family
-
-<figure markdown>
-  ![Image title](../img/how-user-access-oef.png){ width="700" }
-  <figcaption>Image caption</figcaption>
 </figure>
