@@ -2,6 +2,9 @@
 
 The Open Energy Platform is an open-source software that provides a shared research data infrastructure for the energy sector. It offers tools for data management, analysis, and visualization to support the transition to a sustainable energy system. The platform is flexible and modular, allowing it to be integrated with a variety of existing systems and data sources. The Open Energy Platform is intended to be used by researchers, policymakers, and other stakeholders in the energy sector to facilitate data-driven decision-making processes and promote transparency and collaboration. The data available in the platform can be used to support the planning and operation of energy systems, as well as promote the development of renewable energy sources and the implementation of energy efficiency measures.
 
+!!! info "Access the Open Energy Platform"
+    <https://openenergy-platform.org/>
+
 ## Overview of the Platform Application Components
 
 Components of our Website-Project that we are actively developeing on [GitHub](https://github.com/OpenEnergyPlatform/oeplatform). 
