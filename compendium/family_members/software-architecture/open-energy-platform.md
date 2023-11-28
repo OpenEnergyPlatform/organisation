@@ -2,7 +2,31 @@
 
 The Open Energy Platform is an open-source software that provides a shared research data infrastructure for the energy sector. It offers tools for data management, analysis, and visualization to support the transition to a sustainable energy system. The platform is flexible and modular, allowing it to be integrated with a variety of existing systems and data sources. The Open Energy Platform is intended to be used by researchers, policymakers, and other stakeholders in the energy sector to facilitate data-driven decision-making processes and promote transparency and collaboration. The data available in the platform can be used to support the planning and operation of energy systems, as well as promote the development of renewable energy sources and the implementation of energy efficiency measures.
 
-## Where do we develop the oeplatform software
+!!! info "Access the Open Energy Platform"
+    <https://openenergy-platform.org/>
+
+## Overview of the Platform Application Components
+
+Components of our Website-Project that we are actively developeing on [GitHub](https://github.com/OpenEnergyPlatform/oeplatform). 
+Each component represents a [Django App](https://docs.djangoproject.com/en/4.2/ref/applications/) and includes a specific functionality or area of the Open Energy Platform Website.
+
+| Component  | Function |
+|------------|----------|
+| oeplatform | - Configuration of the Django application<br>- Security-critical configuration such as connection data to a database |
+| base       | - Basic structure for homepage and views in other components<br>- Mainly static content for textual description of OEP and research projects<br>- Contact form<br>- Legal information |
+| api        | - Provision of the RESTful API<br>- Data management<br>- Generic and specific data queries using query parameters<br>- User permission querying |
+| login      | - User management<br>- Login system |
+| dataedit   | - Presentation of database contents<br>- Metadata management and annotation of ontology terms<br>- Data management via user interface<br>- Tag system<br>- Data visualization<br>- Data querying via user interface<br>- Open Peer Review for data |
+| modelview  | - Creation and editing of various factsheets using a developed standard format in the form of a form<br>- Factsheet searching<br>- Tag system |
+| ontology   | - Integration of the Open Energy Ontology<br>- Presentation of the contents of OEO<br>- Descriptive contents about OEO and the development process |
+| oeo_viewer | - Open Energy Ontology visualization<br>- Open Energy Ontology search functionality<br>- Special feature: Integrated React application |
+
+In addition to Django apps, there are other components that serve specific functionalities within the system:
+
+| Component               | Explanation                                                                                                                                                                                                                  |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| theming                 | Configures the global design using Bootstrap5 and provides design components that are imported into the software components listed above. This is where the user-friendly and aesthetic presentation of the web application is configured.                                |
+| oedb_datamodels         | Implements database migration schemas used for migrating changes to the database (OEDB). These schemas are utilized by an imported software tool to manage all changes to the Open Energy Database from within the Django application.                             |
 
 The oeplatofrm Website-Project is actively developed on [GitHub](https://github.com/OpenEnergyPlatform/oeplatform).
 
