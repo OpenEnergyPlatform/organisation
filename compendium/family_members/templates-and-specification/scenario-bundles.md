@@ -16,3 +16,27 @@ In a nutshell: A scenario bundle provides you with all relevant information to u
 
 !!! info "Access the Scenario Bundles"
     [openenergyplatform.org/scenario-bundles/main](https://openenergy-platform.org/scenario-bundles/main)
+
+The main page displays a list of bundles created by various users and organisations.
+<figure markdown>
+  ![Image title](../../img/Bundles_main_page.png)
+  <figcaption>List of bundles</figcaption>
+</figure>
+
+Bundles can be accessed in two modes: view mode, which allows users to see the bundles. The edit mode enables users to make changes to the bundles.
+
+<figure markdown>
+  ![Image title](../../img/Bundles_View_Mode.png)
+  <figcaption>View a bundle</figcaption>
+</figure>
+
+<figure markdown>
+  ![Image title](../../img/Bundles_Edit_Mode.png)
+  <figcaption>Edit a bundle and add scenarios</figcaption>
+</figure>
+
+Users can choose scenarios from different bundles for comparison.
+<figure markdown>
+  ![Image title](../../img/Bundles_Qualititative_Comparison.png)
+  <figcaption>An example of a qualititative comparison between bundles</figcaption>
+</figure>
