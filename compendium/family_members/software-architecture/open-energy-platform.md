@@ -28,8 +28,10 @@ In addition to Django apps, there are other components that serve specific funct
 | theming                 | Configures the global design using Bootstrap5 and provides design components that are imported into the software components listed above. This is where the user-friendly and aesthetic presentation of the web application is configured.                                |
 | oedb_datamodels         | Implements database migration schemas used for migrating changes to the database (OEDB). These schemas are utilized by an imported software tool to manage all changes to the Open Energy Database from within the Django application.                             |
 
+The oeplatofrm Website-Project is actively developed on [GitHub](https://github.com/OpenEnergyPlatform/oeplatform).
 
 ## Users
+
 The user concept allows us to define specific user groups who will interact with the Open Energy Platform in unique ways. Our goal is to facilitate effective data management, simplifying processes such as sharing, reproducing, versioning, and publishing in the energy system research domain. We have identified three distinct user roles.
 
 In certain cases, the tasks that users need to perform may be complex and require a learning process. In such instances, it is essential for developers to contribute to these tasks until the community gains proficiency and expertise.
@@ -54,5 +56,3 @@ The Open Peer Review of the Open Energy Family is integrated into the Open Energ
   ![Image title](../../img/oep-use-case.png){ width="700" }
   <figcaption>Image caption</figcaption>
 </figure>
-
-

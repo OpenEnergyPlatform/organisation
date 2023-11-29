@@ -3,3 +3,5 @@
 
 # mkdocs build
 /site
+
+.DS_Store
