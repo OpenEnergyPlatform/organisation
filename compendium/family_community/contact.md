@@ -68,6 +68,7 @@ There are several lists for specific topics:
 | OEP-Contact | <oep-contact@lists.rl-institut.de> |          Communication Team of the OEP | |
 | OEP-DEV     |   <oep-dev@lists.rl-institut.de>   | Developers of the Open Energy Platform | <oeo-dev-join@lists.rl-institut.de> |
 | OEO-DEV     |   <oeo-dev@lists.rl-institut.de>   | Developers of the Open Energy Ontology | <oep-dev-join@lists.rl-institut.de> |
+| OEO-Contact | <oeo-contact@lists.rl-institut.de> | Communication Team of the OEO          | |
 
 !!! Info
     To sign up send an e-mail with subject "Subscribe" to the Sign Up address.  
@@ -79,7 +80,7 @@ There are several lists for specific topics:
 
 We use the [Element Messanger](https://en.wikipedia.org/wiki/Element_(software))
 for direct communication.
-Get in touch to be invited to the corresponding private group.
+Get in touch via the OEP-DEV list or by joining an oep-dev meeting to be invited to the corresponding group.
 
 ## Events
 
