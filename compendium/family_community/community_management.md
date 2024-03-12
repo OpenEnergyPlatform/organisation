@@ -63,4 +63,8 @@ The committee also maintains a continuous exchange with ontology developers
 through GitHub.
 
 #### Tasks of the OEO-SC
-
+1. Provide advice and support for OEO development
+2. Guide basic design decisions
+3. Networking to external ontology development teams and with the OEO user community
+4. Foster exchange and discussions
+5. Arbitration and decision board
