@@ -30,8 +30,8 @@ NFDI4Energy, started in 2023, aims to improve research data management in energy
 
 The consortium is developing five key services to address research data management in energy research and promote open science.
 
-To accomplish their objectives, NFDI4Energy collaborates with and contributes to the Open Energy Family. In the coming years, they plan to enhance the Open Energy Family by adding new features and capabilities. This site will be constantly updated with new features.
+To accomplish their objectives, NFDI4Energy collaborates with and contributes to the Open Energy Family. In the coming years, they plan to enhance the Open Energy Family by adding new features and capabilities. This site will be constantly updated with news about new services developed by NFDI4Energy.
 
 Most recent information about NFDI4Energy can be found on their homepage: [NFDI4Energy Homepage](https://nfdi4energy.uol.de/)
 
-Recent publications from NFDI4Energy can be found here:[Recent Publications on Zenodo](https://zenodo.org/communities/nfdi4energy?q=&l=list&p=1&s=10&sort=newest)
+Recent publications from NFDI4Energy can be found here: [Recent Publications on Zenodo](https://zenodo.org/communities/nfdi4energy?q=&l=list&p=1&s=10&sort=newest)
