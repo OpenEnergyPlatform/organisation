@@ -38,7 +38,7 @@ Bundles can be accessed in two modes: view mode, which allows users to see the b
   <figcaption>Edit a bundle and add scenarios</figcaption>
 </figure>
 
-The comparison show scenarios from different bundles next to each other and displays similarities and differences for comparison.
+The comparison shows scenarios from different bundles next to each other and displays similarities and differences for comparison.
 
 <figure markdown>
   ![Image title](../../img/Bundles_Qualititative_Comparison.png)
