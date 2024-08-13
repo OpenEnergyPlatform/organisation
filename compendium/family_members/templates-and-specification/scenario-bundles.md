@@ -1,6 +1,6 @@
 # Scenario Bundles
 
-The Scenario Bundles provide a interface to store and present dedicated information about specific scenarios for which projection data is available on the OEP.
+The Scenario Bundles provide a interface to store and present dedicated information about specific scenarios for which projection data is available on the [Open Energy Platform](https://openenergyplatform.org/) (OEP).
 They are based on the concepts available in the [Open Energy Ontology](../knowledge-representation/oeo.md) (OEO)
 and the [Open Energy Knowledge Graph](../knowledge-representation/oekg.md) (OEKG).
 This enables the OEP to include information on the scenario projection
