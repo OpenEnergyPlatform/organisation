@@ -35,5 +35,5 @@ The diverse possibilities of using the Open Energy Platform or working with the 
 As a framework, the Open Energy Family is continuously growing and has become quite substantial in content. The framework has a heterogeneous set of members, some of which are well-known and prominent, while others are smaller and less noticeable. Some members have their own repositories, while others are directly attached to other members. Together, they form a strong circle for working with open data and open science. The Open Energy Platform has a special position here, as it offers the use of most of the technical tools from the framework by providing user-friendly interfaces. In this respect, the platform is particularly visible and bundles all developments.
 
 <figure markdown>
-  ![Image title](../img/OEP_Energy_Family_04.png){ width="600" }
+  ![Image title](../img/OEP_Energy_Family_05.png){ width="600" }
 </figure>
