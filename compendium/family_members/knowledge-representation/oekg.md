@@ -15,6 +15,6 @@ The tree view shows the connection to the OEO. When a field is created, classes 
     The following  illustrates a generic model of the [scenario bundles](../templates-and-specification/scenario-bundles.md) which is the main instance available in the OEKG.
 
 <figure markdown>
-  ![Image title](../../img/OEKG_Schema_Vertical_Layout.png)
+  ![Image title](../../img/OEKG_schema_horizontal_layout.png)
   <figcaption>The connection between Open Energy Ontology (OEO) and the Open Energy Knowledge Graph (OEKG)</figcaption>
 </figure>
