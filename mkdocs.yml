@@ -87,5 +87,6 @@ nav:
       - Factsheets: family_members/templates-and-specification/factsheets.md
       - Open Energy Datamodel: family_members/templates-and-specification/open-energy-datamodel.md
       - Open Energy Metadata: family_members/templates-and-specification/open-energy-metadata.md
+      - Metadata & Data quality: family_members/templates-and-specification/metadata-and-data-quality.md
     - Open Process Integration: family_members/open-process-integration.md
   
