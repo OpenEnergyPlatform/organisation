@@ -13,8 +13,10 @@ The client is a well-developed command line interface (CLI) that can be used to 
 
 The Open Metadata Integration OMI tool is used for programmatic work with the [oemetadata](../templates-and-specification/open-energy-metadata.md) specification. It can be used for technical operations such as parsing, compiling, rendering, converting and validating the JSON-based metadata specification. It is integrated into the Open Energy Platform and takes responsibility for parsing all metadata before it is stored in a table.
 
-!!! Warning
-    The tool is still in use, but is also considered oversized as it takes on too many responsibilities and requires more maintenance effort than expected. We are currently looking into a new implementation.
+Furthermore have a look at the [metadata & data quality](../templates-and-specification/metadata-and-data-quality.md) section.
+
+!!! New
+    We reimplemented omi using the json schema spec.
 
 !!! info "Access omi"
     <https://github.com/OpenEnergyPlatform/omi>
