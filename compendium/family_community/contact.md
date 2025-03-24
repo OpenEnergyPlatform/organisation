@@ -62,23 +62,20 @@ Our mailing lists are designed to keep you informed, inspired, and engaged
 with everything happening in the OEFamily.
 There are several lists for specific topics:
 
-| Name        |              Address              |                            Description | Sign Up |
-|-------------|:--------------------------------:|---------------------------------------:|---------------|
-| OEP-Info    |  <oep-info@lists.rl-institut.de>   |    Info about the Open Energy Platform | <oep-info-join@lists.rl-institut.de> |
-| OEP-Contact | <oep-contact@lists.rl-institut.de> |          Communication Team of the OEP | |
-| OEP-DEV     |   <oep-dev@lists.rl-institut.de>   | Developers of the Open Energy Platform | <oeo-dev-join@lists.rl-institut.de> |
-| OEO-DEV     |   <oeo-dev@lists.rl-institut.de>   | Developers of the Open Energy Ontology | <oep-dev-join@lists.rl-institut.de> |
-| OEO-Contact | <oeo-contact@lists.rl-institut.de> | Communication Team of the OEO          | |
+| Name        |                 Address                 |                            Description | Sign Up                                   |
+|-------------|:---------------------------------------:|---------------------------------------:|-------------------------------------------|
+| OEP-Info    |  <oep-info (at) lists.rl-institut.de>   |    Info about the Open Energy Platform | <oep-info-join (at) lists.rl-institut.de> |
+| OEP-Contact | <oep-contact (at) lists.rl-institut.de> |          Communication Team of the OEP |                                           |
+| OEP-DEV     |   <oep-dev (at) lists.rl-institut.de>   | Developers of the Open Energy Platform | <oeo-dev-join (at) lists.rl-institut.de>  |
+| OEO-DEV     |   <oeo-dev (at) lists.rl-institut.de>   | Developers of the Open Energy Ontology | <oep-dev-join (at) lists.rl-institut.de>  |
+| OEO-Contact | <oeo-contact (at) lists.rl-institut.de> |          Communication Team of the OEO |                                           |
 
 !!! Info
     To sign up send an e-mail with subject "Subscribe" to the Sign Up address.  
 
-!!! Warning
-    The Mailing lists are moderated. Abuse leads to exclusion.
-
 ## Element (Matrix) Channels
 
-We use the [Element Messanger](https://en.wikipedia.org/wiki/Element_(software))
+We use the [Element] (https://en.wikipedia.org/wiki/Element_(software)) Messenger
 for direct communication.
 Get in touch via the OEP-DEV list or by joining an oep-dev meeting to be invited to the corresponding group.
 
