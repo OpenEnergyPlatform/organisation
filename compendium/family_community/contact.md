@@ -66,12 +66,13 @@ There are several lists for specific topics:
 |-------------|:---------------------------------------:|---------------------------------------:|-------------------------------------------|
 | OEP-Info    |  <oep-info (at) lists.rl-institut.de>   |    Info about the Open Energy Platform | <oep-info-join (at) lists.rl-institut.de> |
 | OEP-Contact | <oep-contact (at) lists.rl-institut.de> |          Communication Team of the OEP |                                           |
-| OEP-DEV     |   <oep-dev (at) lists.rl-institut.de>   | Developers of the Open Energy Platform | <oeo-dev-join (at) lists.rl-institut.de>  |
-| OEO-DEV     |   <oeo-dev (at) lists.rl-institut.de>   | Developers of the Open Energy Ontology | <oep-dev-join (at) lists.rl-institut.de>  |
+| OEP-DEV     |   <oep-dev (at) lists.rl-institut.de>   | Developers of the Open Energy Platform |                                           |
+| OEO-Info    |   <oeo-dev (at) lists.rl-institut.de>   |    Info about the Open Energy Ontology | <oep-info-join (at) lists.rl-institut.de> |
 | OEO-Contact | <oeo-contact (at) lists.rl-institut.de> |          Communication Team of the OEO |                                           |
+| OEO-DEV     |   <oeo-dev (at) lists.rl-institut.de>   | Developers of the Open Energy Ontology |                                           |
 
 !!! Info
-    To sign up send an e-mail with subject "Subscribe" to the Sign Up address.  
+    To sign up send an e-mail to the sign-up address.  
 
 ## Element (Matrix) Channels
 
