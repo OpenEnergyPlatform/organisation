@@ -62,6 +62,9 @@ Our mailing lists are designed to keep you informed, inspired, and engaged
 with everything happening in the OEFamily.
 There are several lists for specific topics:
 
+!!! Info
+    To sign up send an e-mail to the sign-up address.
+
 ### OEP
 | Name        |                Address                |           Description | Sign Up                                 |
 |-------------|:-------------------------------------:|----------------------:|-----------------------------------------|
@@ -76,8 +79,6 @@ There are several lists for specific topics:
 | OEO-Contact | oeo-contact (at) lists.rl-institut.de |    Communication Team |                                         |
 | OEO-DEV     |   oeo-dev (at) lists.rl-institut.de   | Developers of the OEO |                                         |
 
-!!! Info
-    To sign up send an e-mail to the sign-up address.  
 
 ## Element (Matrix) Channels
 
