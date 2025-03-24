@@ -62,14 +62,19 @@ Our mailing lists are designed to keep you informed, inspired, and engaged
 with everything happening in the OEFamily.
 There are several lists for specific topics:
 
-| Name        |                 Address                 |                            Description | Sign Up                                   |
-|-------------|:---------------------------------------:|---------------------------------------:|-------------------------------------------|
-| OEP-Info    |  <oep-info (at) lists.rl-institut.de>   |    Info about the Open Energy Platform | <oep-info-join (at) lists.rl-institut.de> |
-| OEP-Contact | <oep-contact (at) lists.rl-institut.de> |          Communication Team of the OEP |                                           |
-| OEP-DEV     |   <oep-dev (at) lists.rl-institut.de>   | Developers of the Open Energy Platform |                                           |
-| OEO-Info    |   <oeo-dev (at) lists.rl-institut.de>   |    Info about the Open Energy Ontology | <oep-info-join (at) lists.rl-institut.de> |
-| OEO-Contact | <oeo-contact (at) lists.rl-institut.de> |          Communication Team of the OEO |                                           |
-| OEO-DEV     |   <oeo-dev (at) lists.rl-institut.de>   | Developers of the Open Energy Ontology |                                           |
+### OEP
+| Name        |                Address                |           Description | Sign Up                                 |
+|-------------|:-------------------------------------:|----------------------:|-----------------------------------------|
+| OEP-Info    |  oep-info (at) lists.rl-institut.de   |  Info and Discussions | oep-info-join (at) lists.rl-institut.de |
+| OEP-Contact | oep-contact (at) lists.rl-institut.de |    Communication Team |                                         |
+| OEP-DEV     |   oep-dev (at) lists.rl-institut.de   | Developers of the OEP |                                         |
+
+### OEO
+| Name        |                Address                |           Description | Sign Up                                 |
+|-------------|:-------------------------------------:|----------------------:|-----------------------------------------|
+| OEO-Info    |   oeo-dev (at) lists.rl-institut.de   |  Info and Discussions | oep-info-join (at) lists.rl-institut.de |
+| OEO-Contact | oeo-contact (at) lists.rl-institut.de |    Communication Team |                                         |
+| OEO-DEV     |   oeo-dev (at) lists.rl-institut.de   | Developers of the OEO |                                         |
 
 !!! Info
     To sign up send an e-mail to the sign-up address.  
