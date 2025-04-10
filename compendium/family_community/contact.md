@@ -75,16 +75,16 @@ There are several lists for specific topics:
 ### OEO
 | Name        |                Address                |           Description | Sign Up                                 |
 |-------------|:-------------------------------------:|----------------------:|-----------------------------------------|
-| OEO-Info    |   oeo-dev (at) lists.rl-institut.de   |  Info and Discussions | oep-info-join (at) lists.rl-institut.de |
+| OEO-Info    |   oeo-dev (at) lists.rl-institut.de   |  Info and Discussions | oeo-info-join (at) lists.rl-institut.de |
 | OEO-Contact | oeo-contact (at) lists.rl-institut.de |    Communication Team |                                         |
 | OEO-DEV     |   oeo-dev (at) lists.rl-institut.de   | Developers of the OEO |                                         |
 
 
 ## Element (Matrix) Channels
 
-We use the [Element] (https://en.wikipedia.org/wiki/Element_(software)) Messenger
+We use the [Element](https://en.wikipedia.org/wiki/Element_(software)) Messenger
 for direct communication.
-Get in touch via the OEP-DEV list or by joining an oep-dev meeting to be invited to the corresponding group.
+Get in touch via the mailing lists or by joining a dev meeting to be invited to the corresponding group.
 
 ## Events
 
