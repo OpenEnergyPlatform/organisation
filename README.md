@@ -27,7 +27,7 @@ The Factsheets are a standardized collection and presentation of information abo
 <a href="https://openenergy-platform.org/tutorials/"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_Tutorials.png" width="50px"></a>
 [`Tutorials`](https://openenergy-platform.org/tutorials/)
 <a href="https://github.com/OpenEnergyPlatform/tutorial"><img src="https://github.com/fluidicon.png" width="30px"></a><br>
-Tutorials, manuals and example code for the use of the Open Energy Family.
+Tutorials, manuals, and example code for the use of the Open Energy Family.
 
 <a href="https://openenergy-platform.org/dataedit/schemas"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OpenEnergyDatabase_OEDB.png" width="50px"></a>
 [`Open Energy Database (OEDB)`](https://openenergy-platform.org/dataedit/schemas)<br>
@@ -47,7 +47,7 @@ A common open energy data model (oedatamodel) and datapackage format for energy 
 <a href="https://github.com/OpenEnergyPlatform/omi"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OpenMetadataIntegration_OMI.png" width="50px"></a>
 [`Open Metadata Integration (OMI)`](https://github.com/OpenEnergyPlatform/omi)
 <a href="https://github.com/OpenEnergyPlatform/omi"><img src="https://github.com/fluidicon.png" width="30px"></a><br>
-A library to integrate, process and translate OEMetadata.
+A library to integrate, process, and translate OEMetadata.
 
 <a href="https://github.com/OpenEnergyPlatform/data-preprocessing"><img src="https://raw.githubusercontent.com/OpenEnergyPlatform/organisation/master/logo/OpenEnergyFamily_Logo_OpenProcessIntegration_OPI.png" width="50px"></a>
 [`Open Process Integration (OPI)`](https://github.com/OpenEnergyPlatform/data-preprocessing)
