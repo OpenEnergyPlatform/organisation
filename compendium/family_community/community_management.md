@@ -1,8 +1,9 @@
 # Community Management
 
+Community Management is critical for the success of the Open Energy Family. Therefor the Community Management is split into three main areas which all hold specific roles and responsabilities.
+
 ## Community Manager
 
-Community Management is critical for the success of the Open Energy Family. 
 The Community Manager fosters a collaborative environment and communicates 
 between the community and the development team. They gather feedback, 
 prioritize requests, and organize events that facilitate engagement and 
@@ -53,8 +54,9 @@ to exchange information and review planned and completed tasks.
 5. Develop and advance the vision of the OEFamily
     - Developing and pursuing strategies to expand and improve the functionality
     - Identifying future areas of application and integrating new technologies and developments
-    
+
 #### Decision making process of the OEF-SC
+
 Before every decision there were enough information given to all members of the OEF-SC to make an informed decision on the issue at hand. Every institute, represented through a present member at the meeting, has one vote. One can vote in favor or against the proposal or sustain. The proposal is agreed to when more than have of the votes are in favor of it. Only the Community Manager has the power to veto an otherwise accepted proposal.
 
 ### OEO-SC
@@ -72,3 +74,6 @@ through GitHub.
 3. Networking to external ontology development teams and with the OEO user community
 4. Foster exchange and discussions
 5. Arbitration and decision board
+
+## 
+
