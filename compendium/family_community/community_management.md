@@ -6,7 +6,8 @@ Community Management is critical for the success of the Open Energy Family.
 The Community Manager fosters a collaborative environment and communicates 
 between the community and the development team. They gather feedback, 
 prioritize requests, and organize events that facilitate engagement and 
-collaboration. 
+collaboration. They have an overview over all ongoing and planned developments, hold knowledge and transfer it if needed. 
+The Community Manager holds the right to veto any decision. This applies in development meetings as well as in the Advisory Board.
 Effective Community Management ensures that the framework meets the needs of 
 its users and adapts to the changing needs of the energy research community.
 
@@ -52,6 +53,9 @@ to exchange information and review planned and completed tasks.
 5. Develop and advance the vision of the OEFamily
     - Developing and pursuing strategies to expand and improve the functionality
     - Identifying future areas of application and integrating new technologies and developments
+    
+#### Decision making process of the OEF-SC
+Before every decision there were enough information given to all members of the OEF-SC to make an informed decision on the issue at hand. Every institute, represented through a present member at the meeting, has one vote. One can vote in favor or against the proposal or sustain. The proposal is agreed to when more than have of the votes are in favor of it. Only the Community Manager has the power to veto an otherwise accepted proposal.
 
 ### OEO-SC
 
