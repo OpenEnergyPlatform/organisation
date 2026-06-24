@@ -75,5 +75,26 @@ through GitHub.
 4. Foster exchange and discussions
 5. Arbitration and decision board
 
-## 
+## OEO-Developer-Meeting
 
+Developer Meetings (OEO-Dev) are the basic work meetings while working on project associated with the OEFamily. They happen for every project independently in an interval suited for the pace of this project. The members of the meetings are the developer, who actively work and program on the concerned project. 
+
+### Tasks of the OEO-DeveloperMeeting
+1. progress exchange
+    - informing other developers about the own progress
+    - coordinating furhter steps
+2. project planing
+    - planning next steps for agreed upon developments
+    - dividing tasks among the developers
+3. decision making
+    - discussing issues 
+    - finding consensus agreements on issues relevant for the development of the project
+4. communicating with SC
+    - a member, who is also a member of the relevant SC, transfers information
+    - giving proposals or needed decisons to the SC
+
+### Decision making process of the dev-m
+
+Every developer present at the meeting has a vote. Since everybody is working on the project, affiliation to an institute or role within it (e.g. project manager, student, WiMi) is not relevant. The goal is to reach a consensus agreement. Meaning, that through the discussion during the meeting a decision can be made to which everybody present can easily agree to. If such a decision is not reached and there is a dispute, the proposal and the concerns are brought to the OEF-SC (or the OEO-SC when the decision is regarding only the OEO). Then the SC must mediate and decide on further steps in that issue. 
+
+Any major decision has to be brought to the SC. If there is a consensus within the Developer Meeting, a proposal can be given as a strong advice.
