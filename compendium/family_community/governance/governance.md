@@ -3,7 +3,9 @@
 This document defines the roles, bodies, and decision-making procedures of the
 Open Energy Family (OEFamily). It is the authoritative reference. Operational
 details such as meeting dates, mailing lists, and contacts are kept on the
-[Contact page](../contact/).
+[Contact page](../contact/). Member institutions are listed in the
+[Member register](members/), adopted decisions in the
+[Decision log](../decisions/).
 
 
 ## 1. Scope and principles
