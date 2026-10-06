@@ -156,9 +156,10 @@ Each takes binding decisions within its scope and gives advice beyond it.
 
 ### 4.1 OEFamily Steering Committee (OEFamily-SC)
 
-The OEFamily-SC is the decision-making body for the framework as a whole. It
-sets strategic direction and takes the binding decisions that concern the family
-across projects.
+The OEFamily-SC is the decision-making body for the OEFamily as a whole and for
+all projects other than the OEO.
+It sets strategic direction and takes the binding decisions that concern the
+family across projects.
 
 1. Keep an overview of the OEFamily: its functions, components,
    responsibilities, and timelines, and related work in the field.
@@ -173,28 +174,42 @@ across projects.
 
 ### 4.2 OEO Steering Committee (OEO-SC)
 
-The OEO-SC guides the development of the Open Energy Ontology (OEO) and its use
-across projects. Its role is advisory: it gives recommendations, guides basic
-design decisions, maintains contact with external ontology teams and the OEO
-user community, and serves as the first point for arbitration in OEO questions.
-Binding decisions that reach beyond the OEO-DEV group are referred to the
-OEFamily-SC (Section 5.4).
+The OEO-SC is the decision-making body for the Open Energy Ontology (OEO).
+It takes the binding decisions on the OEO that exceed the scope of OEO-DEV, 
+guides basic design decisions, maintains contact with external ontology teams and 
+the OEO user community, and arbitrates in OEO questions.
+It advises the OEFamily-SC where other projects depend on the OEO.
 
-### 4.3 Development groups: OEP-DEV and OEO-DEV
+### 4.3 Matters concerning both committees
 
-Development takes place in specific groups: 
-Currently, there are 3 active developer teams:
-OEP-DEV for the Open Energy Platform, 
-OEO-DEV for the Open Energy Ontology, and
-open-mastr-dev for open-mastr. 
-Each sets its own pace and organises itself. 
+Some questions fall within the scope of both committees, for example a change to
+published OEO identifiers on which the OEP depends, or a licence policy that
+applies across projects.
+
+1. Such a question is decided by both committees, each under Section 5.3.
+   It is adopted only if both committees adopt it.
+2. The committees may hold a joint session. Each committee still establishes its
+   quorum and counts its votes separately.
+3. If the committees disagree on whether a question concerns both, it is treated
+   as concerning both.
+4. If the committees reach different results, the current state remains. The
+   Community Manager may bring the question back to both committees with a
+   revised proposal.
+
+### 4.3 Development groups
+
+Development takes place in development groups, one per project or component,
+for example OEP-DEV for the Open Energy Platform and OEO-DEV for the Open Energy
+Ontology. The current groups and their meetings are listed on the
+[Contact page](../contact/).
+Each group sets its own pace and organises itself.
 The groups work autonomously: they settle the technical and content
 questions within their scope and involve the committees only when a question
-exceeds that scope (Section 5.6) or when they seek advice or arbitration.
+exceeds that scope or when they seek advice or arbitration.
 
-The members of a group are the people who work on it actively. 
-The groups exchange progress and coordinate next steps, plan and distribute tasks, 
-and reach decisions by consensus within their scope. 
+The members of a group are the people who work on it actively.
+The groups exchange progress and coordinate next steps, plan and distribute tasks,
+and reach decisions by consensus within their scope.
 A member who also sits on the relevant committee carries information both
 ways and brings forward proposals or decisions that the committee needs to take.
 
