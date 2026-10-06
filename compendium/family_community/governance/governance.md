@@ -28,16 +28,72 @@ Six principles underlie the structure.
    institution and do not replace the consent of rights holders where the law
    requires it.
 
-## 2. Membership and voting
+## 2. Membership
 
-An institution joins the OEFamily by contributing to an OEFamily project and
-stating this to the OEFamily-SC. Each member institution names a representative
-and a deputy for votes.
+Membership in the committees is held by institutions.
+Individuals take part through the development groups and,
+as representatives of their institution, in the committees.
 
-Voting rights follow active contribution. In practice the institutions
-currently doing the work hold the vote; standing is not affected by an
-occasional absence. An institution leaves either by its own statement or after
-about a year without any contribution. Departures are recorded in the minutes.
+### 2.1 Member institutions
+
+Each committee has its own member institutions. An institution can be a member
+of the OEFamily-SC, of the OEO-SC, or of both.
+
+Each member institution names one representative and one deputy per committee.
+Only the representative, or the deputy in their absence, casts the
+institution's vote.
+Changes of representative or deputy are notified in writing to the Community
+Manager and take effect on receipt.
+
+The Community Manager keeps the [member register](members/). It lists each
+member institution, the committees it belongs to, its representative and deputy,
+and the date of admission.
+
+### 2.2 Contribution
+
+Membership rests on contribution to an OEFamily project. Contributions are:
+
+- code, ontology terms, data, or metadata
+- documentation, tutorials, and training material
+- review of pull requests, term requests, or data submissions
+- maintenance of infrastructure, releases, or repositories
+- community work such as organizing events, onboarding, or moderation
+- active participation in a development group
+
+A contribution counts once the project has accepted it, that is, merged,
+adopted, or acknowledged by the maintainers.
+Membership requires repeated contributions within the preceding twelve months;
+a single contribution is not sufficient.
+The quality of contributions is not scored. Acceptance by the project is the
+primary evidence, and the committee weighs it in admission and review.
+
+### 2.3 Admission
+
+An institution applies to the Community Manager, naming the committee or
+committees, its contributions, and its intended representative and deputy.
+The application is put on the agenda of the next meeting of the committee
+concerned, which decides by simple majority.
+
+### 2.4 Review and departure
+
+Each committee reviews its member register once a year, at its first meeting of
+the calendar year, on the basis of a contribution overview prepared by the
+Community Manager.
+A member institution without contribution in the preceding twelve months is
+asked whether it intends to continue. The committee may end its membership by
+simple majority, the institution concerned does not vote on this item.
+
+An institution may leave at any time by written statement to the Community
+Manager. It may apply again under. Admissions and departures are documented.
+
+### 2.5 Advisors
+
+Advice from outside the active community is always welcome.
+Each committee may invite individuals or institutions as advisors, for one
+meeting or for a stated period.
+Advisors have the right to speak but no vote. Advisory status does not require
+contribution and does not lead to membership.
+
 
 ## 3. Roles
 
