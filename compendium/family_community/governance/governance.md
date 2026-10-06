@@ -10,17 +10,23 @@ details such as meeting dates, mailing lists, and contacts are kept on the
 
 ## 1. Scope and principles
 
-Four principles underlie the structure.
+Six principles underlie the structure.
 
-1. Contribution grounds participation. Within a development group, a say in
-   decisions follows from the work done, not from institutional affiliation or
-   title.
+1. Contribution grounds participation. A say in decisions follows from
+   sustained work on the OEFamily, not from title. 
 2. Consensus is the default. A formal vote is the fallback when consensus
    cannot be reached, not the normal case.
-3. Decisions, minutes, and votes are documented publicly in the Compendium.
-   Only matters that protect individuals, such as Code of Conduct cases, are
-   kept private.
-4. This document changes only through the procedure in Section 7.
+3. Decisions and votes are documented publicly in the Compendium. Full minutes
+   are kept internally for the members of the respective committee. Matters that
+   protect individuals, such as Code of Conduct cases, are never published.
+4. The two committees (OEFamily-SC and OEO-SC) are equal. 
+   Neither is subordinate to the other, each decides bindingly within its scope.
+5. This document changes only through a formal procedure.
+6. The OEFamily is not a legal entity. Committee decisions are agreements among
+   the member institutions. They bind the OEFamily projects and shared
+   resources, but they create no legal or financial obligation for an
+   institution and do not replace the consent of rights holders where the law
+   requires it.
 
 ## 2. Membership and voting
 
