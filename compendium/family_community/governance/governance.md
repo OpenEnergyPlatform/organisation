@@ -374,22 +374,61 @@ chair of the responsible committee decides.
 
 ## 7. Amending this document
 
-A change to this document is itself an OEEP (Section 6) and needs adoption by the
-OEFamily-SC with a two-thirds majority of the votes cast for and against. A
-change that concerns only the OEO also requires hearing the OEO-SC. Each adopted
-change is versioned and dated in the change log.
+A change to this document is proposed as a pull request against `governance.md`
+together with an OEEP. The pull request carries the tex, the committees take the decision.
 
-## 8. Implementation in GitHub
+1. Majority. A change requires a two-thirds majority (Section 5.3) in each
+   committee whose scope, membership, or procedure it affects. A change that
+   affects only one committee is presented to the other committee for
+   information before the vote. If it is unclear, both committees decide.
+2. Meeting only. Changes are decided at a meeting, not in writing.
+3. Merge. The Community Manager merges the pull request after the decision
+   record is published and references it in the merge commit. Changes that were
+   not adopted are not merged.
+4. Editorial changes. Corrections of spelling, links, and formatting that do not
+   change the meaning can be merged after review by one representative of each
+   committee and are listed in the next decision record. Any representative can
+   require that an editorial change be treated as an amendment.
+5. Versioning. Each adopted change is entered in the change log at the end of
+   this document, with date, decision record, and OEEP.
+6. Review. Twelve months after adoption, the committees review whether this
+   document works in practice. The Community Manager prepares the review.
 
-The governance is kept in the OEP Compendium:
+
+## 8. Documentation and implementation in GitHub
+
+The governance is kept in the OEP Compendium.
+
+Public record. For every meeting and every written vote, the committee publishes
+a decision record in `minutes/`, from the template. The record contains the
+attendance, the quorum, each decision with its vote, referrals, and deferrals.
+It does not contain the discussion. Adopted decisions are also entered in the
+[decision log](../decisions/).
+The decision record is published within 14 days of the meeting. A decision takes
+effect when its decision record is published, unless the decision states a
+later date.
+
+Internal minutes. The full minutes are kept in the committee's internal notes
+and are accessible to the representatives and deputies of its member
+institutions and to the Community Manager. Matters that protect individuals are
+recorded only there.
+
+Repository:
 
 - `governance.md` is this document, the authoritative reference.
-- `proposals/` holds OEEPs from the template, with an index listing status
-  (draft, discussion, final comment period, accepted, rejected, postponed).
-- `proposals/template.md` is the template for new proposals.
-- `minutes/` holds the archived minutes of both committees and of the
-  development groups where public.
+- `members.md` is the member register (Section 2.1).
+- `decisions.md` is the decision log of both committees.
+- `minutes/` holds the public decision records of both committees.
+- `proposals/` holds OEEPs, with an index listing their status (draft,
+  discussion, final-comment-period, accepted, rejected, postponed).
+- `proposals/YYYY-MM-DD_oeep_topic.md` is the template for new proposals.
 - GitHub Discussions carry the discussion and final comment period, one thread
   per proposal, linked from it.
 - Issue labels are used for tracking.
-- Admins require review by the OEFamily-SC for changes to `governance.md` and `proposals/`.
+
+
+## Changelog
+
+| Version | Date             | Decision record | OEEP                                                                 |
+|---------|------------------|-----------------|----------------------------------------------------------------------|
+| 1.0     | pending adoption | –               | [OEEP: OEFamily governance](proposals/2026-07-16_oeep_governance.md) |
