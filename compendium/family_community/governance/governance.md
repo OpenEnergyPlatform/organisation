@@ -218,9 +218,30 @@ ways and brings forward proposals or decisions that the committee needs to take.
 ### 5.1 Responsibility
 
 Technical and content questions inside a project are settled by its development
-group. Advice and recommendations on the OEO come from the OEO-SC. Binding,
-framework-wide decisions rest with the OEFamily-SC. Where a question touches both
-the OEO and the framework, the OEFamily-SC decides after hearing the OEO-SC.
+group. A question that leaves a development group (Section 5.6) goes to the
+committee responsible for the project: the OEO-SC for the OEO, the OEFamily-SC
+for all other projects and for the framework as a whole.
+
+The committees decide in particular on the following matters:
+
+- admission and departure of member institutions
+- election and removal of the Community Manager (CM)
+- licences for new contributions and changes to licence policy
+- moving projects, repositories, domains, or services to other infrastructure,
+  and transferring shared assets
+- admission of a new project or component to the OEFamily, and retiring one
+- setting up and closing development groups
+- changes to public contracts beyond one project
+- the name, logos, and joint public statements of the OEFamily
+- enforcement of the Code of Conduct
+- changes to this document
+
+The committees do not decide on the day-to-day work of the development groups,
+on the staff and resources of individual institutions, or on funding
+applications of individual institutions.
+Where a decision concerns rights held by an institution or a person, such as
+copyright in existing contributions or the ownership of a domain or service
+account, it is carried out with the consent of the rights holder.
 
 ### 5.2 Development groups: consensus and lazy consensus
 
@@ -231,46 +252,92 @@ is raised. Silence counts as assent; a reasoned objection returns the question
 to discussion. If no consensus forms, the proposal and the objections go to the
 relevant committee, the OEO-SC for OEO questions and otherwise the OEFamily-SC.
 
-### 5.3 OEFamily-SC: voting
+### 5.3 Committee votes
 
-Before a decision, members receive enough information in time to decide. Each
-member institution present has one vote. The committee can decide when at least
-half of the voting institutions are represented. Members vote for, against, or
-abstain. A proposal passes when more than half of the votes cast for and against
-are in favour; abstentions count towards the quorum but not the result. A tie
-counts as rejection; the proposal may be revised and brought again.
+The following applies to both committees.
 
-### 5.4 OEO-SC: recommendations
+1. Information. Proposals for a vote are sent with the agenda at least 14 days
+   before the meeting. An item not announced in time can be decided only if no
+   member institution present objects.
+2. Votes. Each member institution has one vote, cast by its representative or,
+   in their absence, its deputy. A vote cannot be transferred to another
+   institution.
+3. Quorum. A committee can decide when at least half of its member institutions
+   are represented. The chair establishes the quorum at the start of the meeting
+   and before each vote.
+4. Lack of quorum. If the quorum is not reached, an item is decided in writing
+   or put on the agenda of the next meeting. The next
+   meeting may decide that item without quorum if the invitation says so.
+5. Options. Members vote for, against, or abstain.
+6. Simple majority. A proposal passes when more than half of the votes cast for
+   and against are in favour. Abstentions count towards the quorum but not
+   towards the result. A tie counts as rejection; the proposal may be revised
+   and brought again.
+7. Two-thirds majority. Removing the Community Manager and amending this
+   document require two thirds of the votes cast for and against. All other
+   decisions require a simple majority.
+8. Conflict of interest. An institution does not vote on its own membership or
+   on a dispute to which it is a party. It still counts towards the quorum.
 
-The OEO-SC reaches its positions by consensus and, where it needs to state one
-clearly, by an indicative vote. Its output is a recommendation to OEO-DEV or to
-the OEFamily-SC, not a binding decision. Questions that exceed the OEO-DEV scope,
-for example changes to published ontology identifiers or to shared interfaces,
-are passed to the OEFamily-SC together with the committee's recommendation.
+### 5.4 Decisions between meetings
 
-### 5.5 Request for reconsideration by the Community Manager
+Between meetings, the Community Manager initiates a written vote at the request
+of a member institution or of a development group.
 
-Before an adopted decision takes effect, the CM may ask the committee to
-reconsider it once. The request is made in writing and gives a reason concerning
-consistency, sustainability, or effect on the community. It defers the decision
-and reopens discussion. At the next meeting the committee decides again under
-Section 5.3, and the earlier decision stands if it is reaffirmed. The request is
-a suspensive step, used sparingly, and does not replace argument on the
-substance.
+1. The proposal and the voting period are sent to all representatives and
+   deputies of the committee. The voting period is at least 14 days.
+2. The vote is valid if at least half of the member institutions take part.
+3. Amendments to this document and the removal of the Community Manager cannot
+   be decided in writing.
+4. The result is recorded like a meeting decision.
+
+### 5.5 Deferral by the Community Manager
+
+The CM may defer a committee decision once, until it takes effect.
+The deferral is made in writing to the committee and gives a reason concerning
+consistency, sustainability, or effect on the community.
+The question is put on the agenda of the next meeting, or to a written vote,
+and decided again under Section 5.3.
+If the committee adopts the decision again, it stands and cannot be deferred a
+second time.
+A deferral is a suspensive step, used sparingly; it does not replace argument
+on the substance.
 
 ### 5.6 Escalation from a development group to a committee
 
 A question leaves the development group when at least one of the following holds:
 
 - it affects more than the group's own project, such as shared interfaces or
-  infrastructure, or other OEFamily components;
+  infrastructure, or other OEFamily components.
 - it changes public contracts such as APIs, data models, published ontology
-  identifiers, or URI and slug conventions;
-- it commits the resources of several institutions or touches funding commitments;
-- it changes policies, licences, or this governance;
+  identifiers, or URI and slug conventions.
+- it requires resources from several institutions or touches funding commitments.
+- it changes policies, licenses, or this governance.
 - it remains contested within the group.
 
 Where the group holds a consensus, it forwards the proposal as a strong recommendation.
+
+### 5.7 Time limits
+
+The time limits in one place:
+
+| Step                                         | Time limit                              | Section |
+|----------------------------------------------|-----------------------------------------|---------|
+| Agenda and proposals for a committee meeting | at least 14 days before the meeting     | 5.3     |
+| Lazy consensus in a development group        | 1 week after announcement               | 5.2     |
+| Written vote                                 | voting period of at least 14 days       | 5.4     |
+| OEEP discussion                              | at least 4 weeks                        | 6       |
+| OEEP final comment period                    | 14 days                                 | 6       |
+| Decision record                              | published within 14 days of the meeting | 8       |
+| Taking effect                                | on publication of the decision record   | 8       |
+| Deferral by the CM                           | until the decision takes effect         | 5.5     |
+| Review of the member register                | first meeting of each calendar year     | 2.4     |
+| Term of the CM                               | two years                               | 3.1     |
+| Review of this document                      | twelve months after adoption            | 7       |
+
+An OEEP thus needs about six weeks from opening the discussion to the decision,
+which fits the two-month meeting cycle of the committees.
+
 
 ## 6. Proposal process
 
