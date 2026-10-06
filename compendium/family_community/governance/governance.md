@@ -99,37 +99,60 @@ contribution and does not lead to membership.
 
 ### 3.1 Community Manager (CM)
 
-The Community Manager connects the community and the development groups. 
-The role coordinates and moderates. 
-The CM collects and bundles feedback from the community and carries it to the bodies, keeps an
-overview of ongoing and planned development and passes on knowledge through
-onboarding, documentation, and references, organises and moderates meetings and
-community formats, and points out duplicated effort between groups.
+The Community Manager connects the community, the development groups, and both
+committees. The role mediates and communicates, it does not direct development.
+
+Tasks:
+
+- collect and bundle feedback from the community and bring it to the bodies
+- keep an overview of ongoing and planned development and point out duplicated
+  effort between groups
+- pass on knowledge through onboarding, documentation, and references
+- prepare the committee meetings: agenda, documents, and invitation
+- keep the member register and the decision log
+- organize and moderate community formats
 
 The CM has the right to speak and to submit motions in the development groups
-and in both committees. Before an adopted decision takes effect, the CM may ask
-the responsible committee to reconsider it once (Section 5.5). This is a
-suspensive request, not a power to block.
+and in both committees, but no vote as CM. A CM who is also the named
+representative of a member institution votes in that capacity.
 
-The OEFamily-SC appoints the CM for a term of one year, with reappointment
-possible, and may remove the CM by a two-thirds majority. If the position is
-vacant, the OEFamily-SC names an interim replacement.
+The only special right of the CM is to defer a committee decision once. 
+It is not a veto.
 
-### 3.2 Maintainer
+Both committees elect the CM for a term of two years, each by simple majority.
+A re-election is possible. Either committee may remove the CM by a two-thirds
+majority. The committees may elect a deputy CM in the same way; the deputy
+shares the tasks as agreed with the CM and acts for the CM when the position is
+vacant. If there is no deputy, the committees name an interim CM jointly.
+
+### 3.2 Chair and minute-taker
+
+Each committee meeting has a chair and a minute-taker, named at the preceding
+meeting. Both roles rotate among the member institutions.
+The chair leads the meeting, establishes the quorum, and conducts the votes.
+The minute-taker keeps the internal minutes and drafts the decision record.
+
+### 3.3 Maintainer
 
 A maintainer carries operational responsibility for a project or component,
 including repository rights, releases, and review. Maintainers vote in the
 development group of their project.
+Each development group names at least one maintainer as its technical contact
+for the committees and the Community Manager.
 
-### 3.3 Contributor
+### 3.4 Contributor
 
 A contributor works actively on a project through code, ontology terms, data,
 documentation, or review. Contributors vote in the development group of their
 project.
 
+
 ## 4. Bodies
 
-The OEFamily has one decision-making committee, one advisory committee, and development groups.
+The OEFamily has two committees of equal standing, the OEFamily-SC and the
+OEO-SC, and autonomous development groups.
+Neither committee is subordinate to the other.
+Each takes binding decisions within its scope and gives advice beyond it.
 
 ### 4.1 OEFamily Steering Committee (OEFamily-SC)
 
