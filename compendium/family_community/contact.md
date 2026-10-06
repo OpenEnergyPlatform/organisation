@@ -42,6 +42,10 @@ Every 2nd week, on Tuesdays, from 14:00 to 14:00 CEST.
 
 Every 2nd week, on Thursday, from  10:00 - 12:00 CEST
 
+### open-mastr-dev
+
+Every 3rd week, on Thursday, from  15:00 - 16:00 CEST
+
 ## Steering Committee Meetings
 
 ### OEFamily-SC
