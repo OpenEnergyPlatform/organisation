@@ -341,23 +341,36 @@ which fits the two-month meeting cycle of the committees.
 
 ## 6. Proposal process
 
-Decisions in the sense of Section 5.6 are written up as an Open Energy Enhancement Proposal (OEEP). 
-The mechanism follows the established pattern and is at
-the same time the technical implementation in the Compendium (Section 8).
+Committee decisions are taken either as a motion or as an Open Energy
+Enhancement Proposal (OEEP).
+
+Motions. Decisions of limited reach, such as admissions, departures, elections,
+or closing a development group, are put to the committee as a motion with the
+agenda (Section 5.3) or in writing (Section 5.4).
+
+OEEPs. Decisions with lasting effect on the OEFamily are written up as an OEEP:
+questions escalated under Section 5.6 that change public contracts,
+licenses, infrastructure, or policy; the admission or retirement of a project;
+and every change to this document. If it is unclear which form applies, the
+chair of the responsible committee decides.
 
 1. Draft. The proposal is written as a Markdown document from the template
-   (`proposals/YYYY-MM-DD_oeep_topic.md`) and submitted as a pull request.
+   (`proposals/YYYY-MM-DD_oeep_topic.md`) and submitted as a pull request. It
+   names a shepherd, who moderates the discussion and prepares the final comment
+   period; the shepherd need not be the author.
 2. Discussion. Open commenting in the pull request and the linked GitHub
    Discussion, for at least 4 weeks.
-3. Final comment period. A named responsible person summarises the state, its
-   main points, compromises, and open objections, and starts the final comment
-   period. Full consensus is not required; what is required is the
-   absence of a strong, reasoned consensus against the proposal.
-4. Decision. After the final comment period the responsible committee decides
-   under Section 5.3 (OEFamily-SC) or gives its recommendation (OEO-SC).
+3. Final comment period. The shepherd summarizes the state, its main points,
+   compromises, and open objections, and opens a final comment period of 14
+   days, announced to the representatives of the responsible committee. Full
+   consensus is not required; what is required is the absence of a strong,
+   reasoned consensus against the proposal.
+4. Decision. At the next meeting after the final comment period, or by written
+   vote, the responsible committee decides under Section 5.3; for
+   questions concerning both committees, both decide.
    Outcomes are accepted, rejected, postponed, or returned to discussion.
-5. Record. The outcome, date, and vote are recorded in the proposal and the
-   minutes.
+5. Record. The outcome, date, and vote are entered in the proposal's front
+   matter and in the decision record.
 
 ## 7. Amending this document
 
