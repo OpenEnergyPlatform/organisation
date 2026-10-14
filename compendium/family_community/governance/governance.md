@@ -3,67 +3,78 @@
 This document defines the roles, bodies, and decision-making procedures of the
 Open Energy Family (OEFamily). It is the authoritative reference. Operational
 details such as meeting dates, mailing lists, and contacts are kept on the
-[Contact page](../contact/). Member institutions are listed in the
-[Member register](members/), adopted decisions in the
-[Decision log](../decisions/).
+[Contact page](../contact/). 
+Member institutions are listed in the [Member register](members/), 
+adopted decisions in the [Decisions folder](../decisions/).
 
 
 ## 1. Scope and principles
 
-Six principles underlie the structure.
+This document applies to the Open Energy Family (OEFamily): its projects, the
+OEFamily Steering Committee (OEFamily-SC), the OEO Steering Committee (OEO-SC),
+and the development groups. It does not govern the internal organisation of the
+member institutions.
 
-1. Contribution grounds participation. A say in decisions follows from
-   sustained work on the OEFamily, not from title. 
+The governance rests on six principles:
+
+1. Participation follows from contribution. A say in decisions follows from
+   sustained work on the OEFamily, not from position or title.
 2. Consensus is the default. A formal vote is the fallback when consensus
-   cannot be reached, not the normal case.
+   cannot be reached.
 3. Decisions and votes are documented publicly in the Compendium. Full minutes
-   are kept internally for the members of the respective committee. Matters that
-   protect individuals, such as Code of Conduct cases, are never published.
-4. The two committees (OEFamily-SC and OEO-SC) are equal. 
-   Neither is subordinate to the other, each decides bindingly within its scope.
-5. This document changes only through a formal procedure.
+   are kept internally and are available to the representatives in the
+   respective committee. Matters that protect individuals, 
+   such as Code of Conduct cases, are never published.
+4. The two committees, OEFamily-SC and OEO-SC, have equal standing.
+   Neither is subordinate to the other. Each takes binding decisions within its scope.
+5. This document changes only through the formal procedure (Section 7).
 6. The OEFamily is not a legal entity. Committee decisions are agreements among
-   the member institutions. They bind the OEFamily projects and shared
-   resources, but they create no legal or financial obligation for an
-   institution and do not replace the consent of rights holders where the law
-   requires it.
+   the member institutions and are binding within the OEFamily, for its projects and shared
+   resources. They create no legal or financial obligation for an institution and 
+   do not replace the consent of rights holders where the law requires it.
+
+Where the rules are silent or unclear, the principles guide their interpretation. 
+If an interpretation is disputed, the responsible committee decides.
+
 
 ## 2. Membership
 
-Membership in the committees is held by institutions.
-Individuals take part through the development groups and,
-as representatives of their institution, in the committees.
+Membership in the committees is held by institutions. Individuals take part
+through the development groups (Section 4.4) and, as representatives of their
+institution, in the committees.
 
 ### 2.1 Member institutions
 
 Each committee has its own member institutions. An institution can be a member
 of the OEFamily-SC, of the OEO-SC, or of both.
 
+A committee needs at least three member institutions. As long as it has fewer,
+its decisions require the agreement of all its member institutions.
+
 Each member institution names one representative and one deputy per committee.
 Only the representative, or the deputy in their absence, casts the
-institution's vote.
-Changes of representative or deputy are notified in writing to the Community
-Manager and take effect on receipt.
+institution's vote. Changes of representative or deputy are notified in writing
+to the Community Manager and take effect on receipt.
 
-The Community Manager keeps the [member register](members/). It lists each
-member institution, the committees it belongs to, its representative and deputy,
-and the date of admission.
+The Community Manager keeps the [member register](members.md). It lists each
+member institution, its representative and deputy, and the date of admission.
 
-### 2.2 Contribution
+### 2.2 Contributions
 
-Membership rests on contribution to an OEFamily project. Contributions are:
+Membership rests on contribution to an OEFamily projects. Contributions include:
 
-- code, ontology terms, data, or metadata
+- code and ontology terms
+- datasets, data or metadata
 - documentation, tutorials, and training material
 - review of pull requests, term requests, or data submissions
 - maintenance of infrastructure, releases, or repositories
 - community work such as organizing events, onboarding, or moderation
 - active participation in a development group
 
-A contribution counts once the project has accepted it, that is, merged,
-adopted, or acknowledged by the maintainers.
-Membership requires repeated contributions within the preceding twelve months;
-a single contribution is not sufficient.
+A contribution counts once the project has accepted it, that is, once it has
+been merged, adopted, or acknowledged by the maintainers. Membership requires at
+least two accepted contributions within the preceding twelve months.
+
 The quality of contributions is not scored. Acceptance by the project is the
 primary evidence, and the committee weighs it in admission and review.
 
@@ -72,27 +83,30 @@ primary evidence, and the committee weighs it in admission and review.
 An institution applies to the Community Manager, naming the committee or
 committees, its contributions, and its intended representative and deputy.
 The application is put on the agenda of the next meeting of the committee
-concerned, which decides by simple majority.
+concerned, which decides by simple majority (Section 5.3).
 
 ### 2.4 Review and departure
 
 Each committee reviews its member register once a year, at its first meeting of
 the calendar year, on the basis of a contribution overview prepared by the
 Community Manager.
-A member institution without contribution in the preceding twelve months is
-asked whether it intends to continue. The committee may end its membership by
-simple majority, the institution concerned does not vote on this item.
+
+A member institution below the threshold in Section 2.2 is asked in writing
+whether it intends to continue and has four weeks to reply. At its next meeting,
+the committee decides by simple majority whether the membership continues,
+whether the institution has replied. The institution concerned does not
+vote on this item.
 
 An institution may leave at any time by written statement to the Community
-Manager. It may apply again under. Admissions and departures are documented.
+Manager. It may apply again under Section 2.3. Admissions and departures are
+entered in the decision log (Section 8).
 
 ### 2.5 Advisors
 
-Advice from outside the active community is always welcome.
-Each committee may invite individuals or institutions as advisors, for one
-meeting or for a stated period.
+Advice from outside the active community is welcome. Each committee may invite
+individuals or institutions as advisors, for one meeting or for a stated period.
 Advisors have the right to speak but no vote. Advisory status does not require
-contribution and does not lead to membership.
+contributions and does not lead to membership.
 
 
 ## 3. Roles
@@ -124,6 +138,8 @@ A re-election is possible. Either committee may remove the CM by a two-thirds
 majority. The committees may elect a deputy CM in the same way; the deputy
 shares the tasks as agreed with the CM and acts for the CM when the position is
 vacant. If there is no deputy, the committees name an interim CM jointly.
+
+ToDo: Conflict of interest. Keine Anweisungen an die DEV-Teams. Nur Kommunikation.
 
 ### 3.2 Chair and minute-taker
 
@@ -202,7 +218,7 @@ Development takes place in development groups, one per project or component,
 for example OEP-DEV for the Open Energy Platform and OEO-DEV for the Open Energy
 Ontology. The current groups and their meetings are listed on the
 [Contact page](../contact/).
-Each group sets its own pace and organises itself.
+Each group sets its own pace and organizes itself.
 The groups work autonomously: they settle the technical and content
 questions within their scope and involve the committees only when a question
 exceeds that scope or when they seek advice or arbitration.
@@ -226,7 +242,7 @@ The committees decide in particular on the following matters:
 
 - admission and departure of member institutions
 - election and removal of the Community Manager (CM)
-- licences for new contributions and changes to licence policy
+- licenses for new contributions and changes to license policy
 - moving projects, repositories, domains, or services to other infrastructure,
   and transferring shared assets
 - admission of a new project or component to the OEFamily, and retiring one
@@ -251,6 +267,7 @@ Between meetings, lazy consensus applies: a proposal is announced in the open
 is raised. Silence counts as assent; a reasoned objection returns the question
 to discussion. If no consensus forms, the proposal and the objections go to the
 relevant committee, the OEO-SC for OEO questions and otherwise the OEFamily-SC.
+ToDo: Was bedeuted begründet? Nachvollziehbarkeit und Transparenz.
 
 ### 5.3 Committee votes
 
@@ -314,6 +331,7 @@ A question leaves the development group when at least one of the following holds
 - it requires resources from several institutions or touches funding commitments.
 - it changes policies, licenses, or this governance.
 - it remains contested within the group.
+- ToDo: Klaren Weg und den Prozess dokumentieren und verbreiten
 
 Where the group holds a consensus, it forwards the proposal as a strong recommendation.
 
@@ -372,6 +390,8 @@ chair of the responsible committee decides.
 5. Record. The outcome, date, and vote are entered in the proposal's front
    matter and in the decision record.
 
+ToDo: State a possible conflict of interest
+
 ## 7. Amending this document
 
 A change to this document is proposed as a pull request against `governance.md`
@@ -426,6 +446,9 @@ Repository:
   per proposal, linked from it.
 - Issue labels are used for tracking.
 
+- Bad face actor, Link zum CoC
+- Alle zwei Jahre wird die Governance überprüft und evaluiert.
+- Im Abschluss einen Bericht zusammenstellen.
 
 ## Changelog
 
