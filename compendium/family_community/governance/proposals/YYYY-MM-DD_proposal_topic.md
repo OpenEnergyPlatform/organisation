@@ -9,9 +9,14 @@ discussion: "<link to the GitHub Discussion thread>"
 decided: ""              # date, filled after the decision
 ---
 
-# Open Energy Enhancement Proposal (OEEP)
+# Proposal
 
 This template follows the process in `governance.md`, Section 6.
+
+## Committee
+
+- Open Energy Family
+- Open Energy Ontology
 
 ## Summary
 

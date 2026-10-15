@@ -9,7 +9,12 @@ discussion: "<link to the GitHub Discussion thread>"
 decided: ""              # date, filled after the decision
 ---
 
-# Open Energy Enhancement Proposal (OEEP)
+# Proposal
+
+## Committee
+
+- Open Energy Family
+- Open Energy Ontology
 
 ## Summary
 
