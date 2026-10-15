@@ -399,47 +399,55 @@ decision, which fits the two-month meeting cycle of the committees.
 
 ## 6. Proposal process
 
-Committee decisions are taken either as a motion or as a Proposal.
+Committee decisions are taken either as a motion or as a proposal.
 
-Motions. Decisions of limited reach, such as admissions, departures, elections,
+### Motions
+
+Decisions of limited reach, such as admissions, departures, elections,
 or closing a development group, are put to the committee as a motion with the
-agenda (Section 5.3) or in writing (Section 5.4).
+agenda (Section 5.3) or in writing (Section 5.4). Member institutions and the
+Community Manager can submit motions.
 
-Decisions with lasting effect on the OEFamily are written up as a proposal:
-questions escalated under Section 5.6 that change public contracts,
-licenses, infrastructure, or policy; the admission or retirement of a project;
-and every change to this document. If it is unclear which form applies, the
-chair of the responsible committee decides.
+### Proposals
+Decisions with lasting effect on the OEFamily are written up as a
+proposal: questions escalated under Section 5.6 that change public contracts,
+licences, infrastructure, or policy; the admission or retirement of a project;
+and every change to this document. Member institutions and development groups
+can submit proposals. If it is unclear which form applies, the chair of the
+responsible committee decides.
 
 1. Draft. The proposal is written as a Markdown document from the template
-   (`proposals/YYYY-MM-DD_proposal_topic.md`) and submitted as a pull request. It
-   names a shepherd, who moderates the discussion and prepares the final comment
-   period; the shepherd need not be the author.
+   (`proposals/YYYY-MM-DD_proposal_topic.md`) and submitted as a pull request.
+   It names its authors, a shepherd, and any conflict of interest of the
+   authors' institutions. The shepherd moderates the discussion and prepares
+   the final comment period; the shepherd need not be an author.
 2. Discussion. Open commenting in the pull request and the linked GitHub
-   Discussion, for at least 4 weeks.
-3. Final comment period. The shepherd summarizes the state, its main points,
-   compromises, and open objections, and opens a final comment period of 14
-   days, announced to the representatives of the responsible committee. Full
-   consensus is not required; what is required is the absence of a strong,
-   reasoned consensus against the proposal.
+   Discussion, for at least four weeks.
+3. Final comment period. The shepherd summarises the state of the discussion,
+   its main points, compromises, and open objections, and opens a final comment
+   period of 14 days, announced to the representatives of the responsible
+   committee. Full consensus is not required. The proposal goes to a decision
+   unless a strong consensus against it has formed on the basis of reasoned
+   objections (Section 5.2).
 4. Decision. At the next meeting after the final comment period, or by written
-   vote, the responsible committee decides under Section 5.3; for
-   questions concerning both committees, both decide.
+   vote (Section 5.4), the responsible committee decides under Section 5.3; for
+   questions concerning both committees, both decide (Section 4.3). 
    Outcomes are accepted, rejected, postponed, or returned to discussion.
 5. Record. The outcome, date, and vote are entered in the proposal's front
-   matter and in the decision record.
+   matter and in the decision record (Section 8).
 
-ToDo: State a possible conflict of interest
 
 ## 7. Amending this document
 
 A change to this document is proposed as a pull request against `governance.md`
-together with a proposal. The pull request carries the tex, the committees take the decision.
+together with a proposal (Section 6). The pull request carries the text; the
+committees take the decision.
 
 1. Majority. A change requires a two-thirds majority (Section 5.3) in each
    committee whose scope, membership, or procedure it affects. A change that
    affects only one committee is presented to the other committee for
-   information before the vote. If it is unclear, both committees decide.
+   information before the vote. If it is unclear which committees a change
+   affects, both committees decide.
 2. Meeting only. Changes are decided at a meeting, not in writing.
 3. Merge. The Community Manager merges the pull request after the decision
    record is published and references it in the merge commit. Changes that were
@@ -450,47 +458,52 @@ together with a proposal. The pull request carries the tex, the committees take 
    require that an editorial change be treated as an amendment.
 5. Versioning. Each adopted change is entered in the change log at the end of
    this document, with date, decision record, and proposal.
-6. Review. Twelve months after adoption, the committees review whether this
-   document works in practice. The Community Manager prepares the review.
-
+6. Review. Every two years after adoption, the committees review whether this
+   document works in practice. The Community Manager prepares the review and
+   compiles a report on its results, which is published in the Compendium.
 
 ## 8. Documentation and implementation in GitHub
 
 The governance is kept in the OEP Compendium.
 
 Public record. For every meeting and every written vote, the committee publishes
-a decision record in `minutes/`, from the template. The record contains the
+a decision record in `minutes/`, based on the template
+`minutes/YYYY-MM-DD_committee_decisions.md`. The record contains the
 attendance, the quorum, each decision with its vote, referrals, and deferrals.
 It does not contain the discussion. Adopted decisions are also entered in the
-[decision log](../decisions/).
-The decision record is published within 14 days of the meeting. A decision takes
-effect when its decision record is published, unless the decision states a
-later date.
+[decisions folder](../decisions/). The decision record is published within 14 days
+of the meeting. A decision takes effect when its decision record is published,
+unless the decision states a later date.
 
 Internal minutes. The full minutes are kept in the committee's internal notes
 and are accessible to the representatives and deputies of its member
-institutions and to the Community Manager. Matters that protect individuals are
-recorded only there.
+institutions and to the Community Manager. Matters that protect individuals,
+such as Code of Conduct cases, are recorded only there.
+
+Conduct. Misuse of the procedures in this document, such as raising objections
+in bad faith, blocking decisions through repeated escalation, or claiming
+contributions that were not made, is a breach of the
+[Code of Conduct](https://github.com/OpenEnergyPlatform/ontology/blob/dev/CODE_OF_CONDUCT.md).
+The responsible committee handles it under the Code of Conduct (Sections 4.1
+and 4.2).
 
 Repository:
 
 - `governance.md` is this document, the authoritative reference.
 - `members.md` is the member register (Section 2.1).
-- `decisions.md` is the decision log of both committees.
+- `decisions/` is the decision log of both committees.
 - `minutes/` holds the public decision records of both committees.
 - `proposals/` holds proposals, with an index listing their status (draft,
   discussion, final-comment-period, accepted, rejected, postponed).
 - `proposals/YYYY-MM-DD_proposal_topic.md` is the template for new proposals.
 - GitHub Discussions carry the discussion and final comment period, one thread
   per proposal, linked from it.
-- Issue labels are used for tracking.
+- The issue labels `proposal`, `governance`, and `escalation` mark proposals,
+  governance questions, and escalations (Section 5.6).
 
-- Bad face actor, Link zum CoC
-- Alle zwei Jahre wird die Governance überprüft und evaluiert.
-- Im Abschluss einen Bericht zusammenstellen.
 
 ## Changelog
 
-| Version | Date             | Decision record | proposal                                                                       |
-|---------|------------------|-----------------|----------------------------------------------------------------------------|
-| 1.0     | pending adoption | –               | [proposal: OEFamily governance](proposals/2026-07-16_proposal_governance.md)   |
+| Version | Date             | Decision record | proposal                                                                        |
+|---------|------------------|-----------------|---------------------------------------------------------------------------------|
+| 1.0     | pending adoption | –               | [proposal: OEFamily governance](proposals/2026-07-16_proposal_governance.md)    |
