@@ -1,34 +1,35 @@
-# Communication
+# Contact & Communication
 
-## Contact
+## GitHub
 
-### GitHub
-
-GitHub offers a solid base for our community to communicate and collaborate.<br>
-We use the _GitHub Discussions_ and _GitHub Issues_.
+GitHub offers a base for our community to communicate and collaborate.<br>
+We use the [_GitHub Discussions_](https://github.com/OpenEnergyPlatform/organisation/issues) 
+and [_GitHub Issues_](https://github.com/OpenEnergyPlatform/organisation/discussions/).
 
 We have different [_GitHub Teams_](https://github.com/orgs/OpenEnergyPlatform/teams)
 to coordinate the development.<br>
 The link provided above is accessible exclusively to members of our community.
-To gain an understanding of the teams and their respective responsibilities, we recommend reading our [Developer Role](collaborative_development.md#github-teams) overview.
+To gain an understanding of the teams and their respective responsibilities, 
+we recommend reading our [Collaborative Development](collaborative_development.md).
 
 If you want to participate in the development, we are happy to add you to the
-corresponding teams. Please contact us via the [mailing list](#mailing-lists). You can also use the mailing list communicate any suggestions or new features for the OpenEnergyPlatform.
+corresponding teams. 
+Please contact us via the [mailing lists](#mailing-lists). 
 
-Please note to always follow the [Code of Conduct](https://github.com/OpenEnergyPlatform/ontology/blob/dev/CODE_OF_CONDUCT.md) on all channels
+Please note to always follow the 
+[Code of Conduct](https://github.com/OpenEnergyPlatform/ontology/blob/master/CODE_OF_CONDUCT.md) 
+on all channels and projects.
 
-### Contact Form
+## Contact Form and Mail Address
 
-The OEP offers a contact form as a direct channel for reaching out to our
-communication experts.
+The [OEP Contact Form](https://openenergyplatform.org/contact/) is a direct channel for 
+reaching out to our core developers and Community Manager.
 Whether you have questions, feedback, suggestions, or collaboration inquiries,
 we welcome your message. Our team is committed to ensuring that your voice is
 heard and that your needs are met promptly and efficiently.
 
-On the [OEP Contact Form](https://openenergy-platform.org/contact/) you'll find
-a user-friendly form where you can provide us with the necessary information.
-The more details you provide, the better we can understand your requirements
-and tailor our response accordingly.
+You can also use the [OEP Contact Mail](mailto:oep-contact (at) lists.rl-institut.de).
+
 
 ## Developer Meetings
 
@@ -36,11 +37,15 @@ There are regular developer meetings which are open to everybody.
 
 ### OEP-DEV
 
-Every 2nd week, on Tuesdays, from 14:00 to 14:00 CEST.
+Every 2nd week, on Tuesdays, from 14:00 to 15:00 CEST.
 
 ### OEO-DEV
 
-Every 2nd week, on Thursday, from  10:00 - 12:00 CEST
+Every 2nd week, on Fridays, from  9:30 - 11:30 CEST
+
+### open-mastr-dev
+
+Every 3rd week, on Thursday, from  15:00 - 16:00 CEST
 
 ## Steering Committee Meetings
 
@@ -48,13 +53,13 @@ Every 2nd week, on Thursday, from  10:00 - 12:00 CEST
 
 Takes place on the second Thursday of every 2 months (uneven),
 from 13:00 to 14:00 CEST.<br>
-See the [Community Management](../community_management/#oefamily-sc) for more information.
+See the [OEFamily Governance](../governance/#oefamily-sc) for more information.
 
 ### OEO-SC
 
 Takes place on the second Thursday of every 2 months (even),
 from 13:00 to 14:00 CEST.<br>
-See the [Community Management](../community_management/#oeo-sc) for more information.
+See the [OEFamily Governance](../governance/#oeo-sc) for more information.
 
 ## Mailing Lists
 
@@ -83,8 +88,9 @@ There are several lists for specific topics:
 ## Element (Matrix) Channels
 
 We use the [Element](https://en.wikipedia.org/wiki/Element_(software)) Messenger
-for direct communication.
-Get in touch via the mailing lists or by joining a dev meeting to be invited to the corresponding group.
+for direct communication.<br>
+Get in touch via the mailing lists or by joining a developer meeting to be invited to 
+the corresponding group.
 
 ## Events
 
