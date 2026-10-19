@@ -508,7 +508,7 @@ Repository:
 - `proposals/YYYY-MM-DD_proposal_topic.md` is the template for new proposals.
 - GitHub Discussions carry the discussion and final comment period, one thread
   per proposal, linked from it.
-- The issue labels `proposal`, `governance`, and `escalation` mark proposals,
+- The issue labels `proposal` and `escalation` mark proposals,
   governance questions, and escalations (Section 5.6).
 
 
