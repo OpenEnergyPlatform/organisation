@@ -1,251 +1,334 @@
 # Personas
 
-## Alix Agency(Qualitist/Consumer)
+The seven personas represent the main user groups of the Open Energy Platform.
+The [concept](index.md#concept) explains the roles, interaction modes and structure of the personas.
+Use-case IDs refer to [Use-Cases](use-cases.md).
 
-![](https://wingechr.de/files/sha256/5b3b9f1b140881539c7e18ae52a419b162efb83274e6bf5f19c7a45ddb9e3e03.png)
+| Persona                               | Role        | Preferred mode | Focus                                                          | Expected entry points               |
+|---------------------------------------|-------------|----------------|----------------------------------------------------------------|-------------------------------------|
+| [Alix Agency](#alix-agency)           | Consumer    | Web            | Prepare commissioning decisions and verify contract fulfilment | Scenario Bundles, Database          |
+| [Charles Champion](#charles-champion) | Consumer    | Data           | Analyse scenario results and communicate them publicly         | Scenario Bundles, Database          |
+| [Elisa Energy](#elisa-energy)         | Consumer    | Code           | Integrate data programmatically into a model                   | Database, API, Academy              |
+| [Bob Branch](#bob-branch)             | Contributor | Web            | Publish research results without technical hurdles             | Scenario Bundles, Open Science      |
+| [Mona Modeling](#mona-modeling)       | Contributor | Data           | Provide and document research data in a structured way         | Database, Scenario Bundles, Academy |
+| [Fred Framework](#fred-framework)     | Contributor | Code           | Use the interfaces and contribute technically                  | API, Open Energy Community          |
+| [Diana Diligence](#diana-diligence)   | Reviewer    | Data           | Assess data quality and scientific comparability               | Database, Ontology                  |
 
-### personality
+---
 
-* in late 40s
-* no children (never wanted any)
-* new to the government agency and under pressure to perform. The current work is very different to the prior one (worked at an NGO prior to joining the government agency)
-* challenging to get used to the hierarchical nature of her new employer
-* recently moved to the city where the agency is located and does not yet know many people
-* likes to spend time alone
-* gets frustrated by unnecessary or unexplained technical terms or systems
- (what is a git?) and clutter
-* likes clear language and navigation
+## Alix Agency
 
-### background / motivation
+![Alix Agency](../../img/personas/alix.png)
 
-* government agency employee
-* needs to coordinate many projects that are delivered to the agency by different contractors
-* works often under a lot of time pressure
-* has to make informed decisions in little time
+**Role:** Consumer · **Preferred mode:** Web
 
-### skills
+**Focus.** Alix prepares commissioning decisions and checks whether contractors have
+published what was agreed. She does not analyse data herself.
 
-* Works mostly with Office products (PowerPoint) on Windows PC
-* English: good
+**Context.** Project officer at a government agency that commissions energy and climate
+scenario studies. She prepares the content of calls for tenders and supervises the
+contractors; the head of unit takes the final decision. Her work follows one process:
+research existing models and studies, define publication requirements, verify the publications.
 
-### user stories
+**Goals**
 
-* I as Alix Agency want to commission a study on Germany and quickly need to find information on institutions that created climate- and energy scenarios for Germany, find the corresponding studies and learn about the scenarios contained in these studies (SIROP).  For that I need a powerful search engine, that finds institutions and their contributions to the OEP in a second.
-* I as Alix Agency want to compare two models using the model and framework factsheets to decide on who to grant a contract. Therefore I need a quick overview of the factsheets that allows me to scan for relevant information (OEP).
-* I as Alix Agency need to define how the data and metadata will need to be published in a research project, so that the requirements of my agency are fulfilled. For that I need a quick and easy overview how to contribute these data to the platform in a proper way to share with my contractors.
-* I as Alix Agency need to confirm that a contractor provided the information to the OEP as stated in the contract, so that final payment can be made. For that I need a powerful search engine, that finds institutions and their contributions to the OEP in a second. 
+- Know which models and scenario studies and institutions already exist before a project is commissioned.
+- Include clear, verifiable publication requirements in contracts.
+- Confirm that a contractor has met these requirements before final payment.
 
+**Obstacles and requirements**
 
-## Bob Branch (Qualitist/Participant)
+| Obstacle                                                       | Requirement for the OEP                                                  | Expected result                                           |
+|----------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------|
+| Technical terms such as git, API or ontology are not explained | Plain-language labels; explanations of technical terms where they appear | Alix finds her way without asking colleagues              |
+| Information on studies is spread over several pages            | Search and filter scenario studies by region and topic                   | An overview of existing studies in minutes                |
+| Publications of an institution cannot be listed in one place   | A view of all contributions of an institution                            | Contract fulfilment can be checked without technical help |
 
-![](https://wingechr.de/files/sha256/5cfffd22ac1028cf3a47a5747ad88649677003a7c46ef75aa0e2fbd7119e6cda.png)
+**Skills and tools.** Office software on Windows, no programming. Reads English well,
+but technical terminology in English slows her down.
 
-### personality
+**Accessibility.** No specific individual accessibility requirements identified.
 
-* early 60s
-* divorced, 2 children, 1 grandchild
-* well established and published in his field
-* cycles everywhere or takes the train
-* lives a sustainable lifestyle since the beginning of his 20s (no car, no flying, vegetarian, lives in a commune)
-* knows a lot about how the scientific field has evolved, wants to share knowledge
-* likes participate in relevant contexts,  but does not have the capacity to learn new skills (e.g. programming) for participating
-* frustrated by lack of scientific standards (source attribution, ...)
-* Interested in open data, but does struggle in applying open licenses
+**Entry points.** Scenario Bundles, Database
 
-### background / motivation
+**User stories**
 
-* professor for environmental studies
+- As Alix, I want to find the scenario studies for Germany and the institutions that produced them, so that I can scope a new call for tenders. ([UC-01](use-cases.md#uc-01))
+- As Alix, I want a non-technical summary of the requirements for publishing on the OEP, so that I can include them in contracts. ([UC-11](use-cases.md#uc-11))
+- As Alix, I want to see all datasets and scenario bundles an institution has published, so that I can confirm the contractor has met the publication obligations. ([UC-04](use-cases.md#uc-04))
 
-### skills
+**Success.** Alix can list the relevant existing studies for a call, and she can check a
+contractor's publications against the requirements in the contract.
 
-* Works mostly with OpenOffice products and statistical tools like SPSS
-* Has no background and basic understanding of licenses
-* No experience with collaborative workflows (git, GitHub ...)
-* English: ok
+---
 
-### user stories
+## Charles Champion
 
-* I as Bob Branch want to add my models and studies as factsheets to the OEP in order to share my knowledge. For this I need an easy-to-use factsheet interface to add the information (OEP) 
+![Charles Champion](../../img/personas/charles.png)
 
-* I as Bob Branch want to find information on scenario studies to see what's missing. Based on that I want to work out whether I can create a project proposal. I thus require comparable scenario factsheets that I can view online (one by one, or better next to one another for quick comparison) and that I can download (to read while travelling)
+**Role:** Consumer · **Preferred mode:** Data
 
+**Focus.** Charles compares published scenario results to communicate them to the public.
+Unlike Diana, he does not assess the scientific quality of the scenarios.
 
+**Context.** Policy analyst at a climate NGO. He prepares statements and campaign material
+that compare, for example, the projected share of renewable energy or the greenhouse gas
+emissions by sector across scenarios for the same target year.
 
-## Charles Champion (Quantitist/Consumer)
+**Goals**
 
-![](https://wingechr.de/files/sha256/e65e69f152cca082ab39db0cafeed9090cfb127f53e3c1b7bc46b83352bff1dd.png)
+- Compare projected values of the same indicator across several scenarios.
+- Publish charts that are traceable through source, licence and underlying data.
 
-### personality
+**Obstacles and requirements**
 
-* beginning of 30s
-* 1 child who lives at his ex-partner
-* wants to save the world quickly and loudly
-* was a math champion in school, but did not pursue a career in maths
-* tends to focus more on pointing out problems rather than also suggesting solutions to them
-* gets frustrated quickly  and has diffculties to concentrate for longer than a couple of minutes
-* immerses in excessive sports (triathlon etc.)
-* frustrated by overwhelming complexity / too many details
-* has +5000 followers on IG
+| Obstacle                                                                    | Requirement for the OEP                                 | Expected result                                     |
+|-----------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------|
+| Relevant data are difficult to find among extensive descriptive information | Direct links from a scenario to its result data         | Charles reaches the figures he needs in a few steps |
+| Data of one scenario are spread over several tables without guidance        | Overview of the tables belonging to a scenario          | Fewer wrong or incomplete downloads                 |
+| Licence and source of a dataset are not visible at a glance                 | Licence and citation shown with every dataset and chart | Charts can be published with correct attribution    |
 
-### background / motivation
+**Skills and tools.** Spreadsheets and office tools, no programming.
 
-* climate activism NGO
+**Accessibility.** No specific individual accessibility requirements identified.
 
-### skills
+**Entry points.** Scenario Bundles, Database
 
-* Works mostly collaboratively with cloud products (google docs) on his
-* English: native
+**User stories**
 
-### user stories
+- As Charles, I want to compare the projected values of the same indicator across scenarios for the same region and target year, so that I can show how far the scenarios diverge. ([UC-02](use-cases.md#uc-02))
+- As Charles, I want to find the dataset behind a scenario result and see whether its licence allows publication, so that I can use it in campaign material. ([UC-05](use-cases.md#uc-05))
+- As Charles, I want to create a chart from selected data and export it with source and licence information, so that others can trace the figures. ([UC-07](use-cases.md#uc-07))
 
-* I as Charles Champion want to quickly find scenario projection data and corresponding scenario descriptions to make a scenario projection comparison because I want to confirm my negative view on the world. For this I require a way (search?) on how to locate the appropriate data on the OEP. (SIROP)
+**Success.** Charles can publish a chart comparing several scenarios that states its source
+and licence and points to the underlying data.
 
-* I as Charles Champion want to share a "nice" graphic on Twitter, Facebook and Instagram. This helps me share my view on the world with the world. For that I require the functionality to generate visualisations from selected data (possibly spread across more than one table).  (SIROP)
+---
 
+## Elisa Energy
 
+![Elisa Energy](../../img/personas/elisa.png)
 
-## Diana Dissertation (Quantitist/Participant)
+**Role:** Consumer · **Preferred mode:** Code
 
-![](https://wingechr.de/files/sha256/f6715e565d019b337c52a906d1420740bb7e2349e53241463c95063a89a13d59.png)
+**Focus.** Elisa integrates data from the OEP into her own model by program code.
+She neither publishes nor reviews data.
 
-### personality
+**Context.** Master's student in renewable energy systems. For a course assignment,
+she builds a model of one federal state and needs the installed capacity of power plants
+by technology and municipality as input.
 
-* mid 30s
-* 1 toddler child, no partner, no family close by
-* summa cum laude dissertation (cumulative)
-* challenged with juggling child and work
-* insecure about her own skills
-* frustrated by unnecessary lengthy discussions and feels lost in them after a while
-* is interested in contributing to climate change mitigation one step at a time
-* tries to establish a scientific career, wants to systematically research economic and distributional effects of climate and energy policies and measures
-* wants to publish in scientific journals but is frustrated by the time-lag from results to publication
+**Goals**
 
-### background / motivation
+- Find out whether a suitable dataset exists before investing time in it.
+- Load the data directly into her model instead of downloading files.
 
-* Post doc in economics
+**Obstacles and requirements**
 
-### skills
+| Obstacle                                               | Requirement for the OEP                                                                         | Expected result                                 |
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| Unclear whether a dataset fits before downloading it   | Preview of content, spatial coverage and metadata in the search results and on the dataset page | Fewer unsuitable downloads                      |
+| No end-to-end example from search to model input       | Tutorial that queries a table and loads it in Python or R                                       | Elisa has working code in one session           |
+| Unclear API parameters, for example for filtering rows | API reference with examples for each parameter                                                  | Elisa can adapt the example to her region       |
+| Documentation is fragmented across multiple locations  | A single entry point for getting-started resources                                              | Elisa does not have to search for documentation |
 
-* Works mostly with her macbook air and office products on Mac, has some experience with python and databases
-* English: ok
+**Skills and tools.** R and some Python, basic database knowledge.
 
-### user stories
+**Accessibility.** No specific individual accessibility requirements identified.
 
-* I as Diana Dissertation want to compare economic assumptions (GDP, energy prices) that scenario projections based on the same scenario (e.g. WEM scenario) used as inputs. This helps to  inform my own modelling. For that I need a way to find, filter and download (or compare online) the corresponding data that may reside in more than one table.  (SIROP) 
+**Entry points.** Database, API, Academy
 
+**User stories**
 
-*I as Diana Dissertation want to add (economic and distributional) modelling results to the OEP and contribute economic aspects to the community. For that I require a step-by-step documentation in one place.  (OEP)
+- As Elisa, I want to search for datasets by topic and region and preview their content, so that I can decide whether a dataset fits my model. ([UC-05](use-cases.md#uc-05))
+- As Elisa, I want an example that retrieves a filtered table via the API in Python or R, so that my model reads the data directly. ([UC-06](use-cases.md#uc-06))
+- As Elisa, I want a single entry point for getting-started resources, so that I know where to begin. ([UC-10](use-cases.md#uc-10))
 
-* I as Diana Dissertation want to contribute economic expertise to the OEO development. For that I need to quickly find on the OEP how I can join the OEO developer community.  (OEP) 
+**Success.** Elisa's model retrieves the required data automatically from the OEP.
 
-* I as Diana Dissertation require data and metadata of high quality and provide my data respectively. 
+---
 
+## Bob Branch
 
+![Bob Branch](../../img/personas/bob.png)
 
-## Mona Modeling (Quantitist/Participant)
+**Role:** Contributor · **Preferred mode:** Web
 
-### personality
+**Focus.** Bob publishes the scenario studies of his group without having to learn technical
+workflows. Unlike Mona, he publishes descriptions of studies, not data.
 
-* Mid 30s
-* 1 child, lives with husband in recently bought house
-* summa cum laude dissertation (cumulative)
-* mathematical mind, very organized worker
-* manages work life balance together with her partner
-* frustrated by unnecessary lengthy discussions and likes to come to the point
-* wants to make a career at her institution, can imagine to have her own Team
-* contributes to publicly funded scenario studies and wonders, how obligations to publish her results as open data affect her work
+**Context.** Senior researcher in environmental studies who leads several projects.
+He wants to make the scenario studies of his group findable and citable and uses
+existing studies to identify topics for new project proposals. He has little time for
+technical publication processes.
 
-### background / motivation
+**Goals**
 
-* Works as junior scientist in energy systems modeling for a research institution
-* Wants to foster energy system change to ensure the world stays a place to live in for her child
-* Sees this also as a good career opportunity 
+- Publish his group's scenario studies in a structured, citable form.
+- Identify research gaps across existing scenario studies.
 
-### skills
+**Obstacles and requirements**
 
-* Programming skills
-* Uses APIs to gather data for her models 
-* English fluently
+| Obstacle                                          | Requirement for the OEP                                 | Expected result                                        |
+|---------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------|
+| Workflows that require git, GitHub or programming | Web forms with examples for each field                  | Bob publishes a study without technical help           |
+| Uncertainty about which open licence to choose    | Short explanation of common licences and a decision aid | Bob selects a licence and understands its consequences |
+| Missing source attribution in other publications  | Citation information for each scenario bundle           | His work is cited correctly                            |
 
-### user stories
+**Skills and tools.** Office software and statistics tools. No experience with
+licences or collaborative workflows. Reads English well, writes it less confidently.
 
-* I as Mona Modeling want to quickly find and compare information on the latest models used in energy systems modeling, that I can use to see what's in the market and how I can improve my own models.
+**Accessibility.** No specific individual accessibility requirements identified.
 
-* I as Mona Modeling want to upload information on my models and modelling results to the OEP in no time, so that I can fulfil the obligations from my funding agency regarding open science quickly. Therefore I need an intuitive and easy to use form or API.
+**Entry points.** Scenario Bundles, Open Science
 
-* I as Mona Modeling want to quickly find information on scenarios and connected data sets, that use a specific model or a set of models I'm interested in for its projections, so that I can better understand, how that model or set of models works. In addition want to be informed, when new information on a specific model I'im interested in, is published on the OEP, so that I am always aware of what is going on in the community.
+**User stories**
 
-* I as Mona Modeling want to show what I am working on and get in touch with contributors to the OEP, that deal with models and topics I'm interested in, so that I can expand my professional network within my specific community. Therefore I'd like to create a profile on the OEP, that makes communication easy. 
+- As Bob, I want to describe a scenario study and its scenarios in web forms, so that others can find and cite it. ([UC-12](use-cases.md#uc-12))
+- As Bob, I want to understand which licence suits my publications, so that I can publish without legal uncertainty. ([UC-13](use-cases.md#uc-13))
+- As Bob, I want to see which regions, sectors and target years existing scenario studies cover, so that I can identify gaps for a project proposal. ([UC-08](use-cases.md#uc-08))
 
+**Success.** Bob's study is published as a scenario bundle with a licence and citation
+information, and he can name gaps in existing studies.
 
+---
 
-## Elisa Energy (Apinist / Consumer)
+## Mona Modelling
 
-![](https://wingechr.de/files/sha256/d01c9302e5edcae7eb2e59964bd94b6578ce1d84a9cec52082ed6b9f5589ca6d.png)
+![Mona Modelling](../../img/personas/mona.png)
 
-### personality
+**Role:** Contributor · **Preferred mode:** Data
 
-* 20s, no children, very social and outgoing
-* a little scatter brained, does not remember where she documented things
-* frustrated by lack of clear explanations or documentation on how to work with platforms
-* requires documentation in one place, as otherwise she gets confused as to where the documentation is (see also bullet above)
+**Focus.** Mona is responsible for the scientific provision and documentation of her results.
+Unlike Fred, she does not build technical integrations.
 
-### background / motivation
+**Context.** Junior researcher in energy system modelling at a research institute.
+She works on publicly funded scenario studies whose funding body requires publication
+of the results as open data.
 
-* university student in Renewable Energy Systems
-* needs to fulfill assignment for her classes (energy model)
+**Goals**
 
-### skills
+- Publish her results with the metadata required by her funding body.
+- Document how her results were produced, by linking data, model and study.
+- Keep track of which models other groups use (research need, separate from publishing).
 
-* experienced in R and some python, basic database literacy
-* English: ok
+**Obstacles and requirements**
 
-### user stories
+| Obstacle                                                              | Requirement for the OEP                                                  | Expected result                                    |
+|-----------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------|
+| The upload of data and metadata has many unstructured steps           | A process that guides her from table to published dataset                | Publication within the time planned in the project |
+| She does not know whether her metadata is complete and formally valid | Check for completeness and validity against OEMetadata before submission | Fewer revisions in the review                      |
+| Scientific quality is only checked after submission                   | Clear review criteria, known in advance                                  | Mona can prepare her data accordingly              |
 
-* I as Elisa Energy want to use data from the OEP, e.g. MaStR data, as input for my regional energy system model as required by my curriculum. I thus need to identify whether there is proper data for me on the OEP. For this I require a suitable search functionality. 
+**Skills and tools.** Python and databases, uses APIs to gather model input.
 
-* I as Elisa Energy want to connect my model directly to the data on the OEP as I do not want to  download the data prior to running the model. This helps me stay focussed and not scatter the data on my computer. For doing this I need to find easily a good documentation of the API. 
+**Accessibility.** No specific individual accessibility requirements identified.
 
-* As Elisa Energy I am a newby to the OEP, but need to contribute to it as tasked by my research institute. I need to see easy ways to contribute to the Project or find a quick oversight that leads me to that point where I can contribute.
+**Entry points.** Database, Scenario Bundles, Academy
 
-* I have to create metadata for reseach data of my institute.
+**User stories**
 
+- As Mona, I want to publish my model results with the metadata my funding body requires, without studying the metadata specification in detail, so that I meet the obligation within the project time. ([UC-14](use-cases.md#uc-14))
+- As Mona, I want to know before submission whether my metadata is complete and formally valid, so that the review concentrates on content. ([UC-15](use-cases.md#uc-15))
+- As Mona, I want to link my datasets, my model and my study in a scenario bundle, so that others can trace how the results were produced. ([UC-12](use-cases.md#uc-12))
+- As Mona, I want to find which scenarios were computed with a given model, so that I can compare its use with my own. ([UC-09](use-cases.md#uc-09))
 
-## Fred Farbenblind (Apinist / Participant)
+**Success.** Mona's dataset passes the review and is linked to her model and study
+in a scenario bundle.
 
-![](https://wingechr.de/files/sha256/917359a6335d41ac66917b2fa81bd5dd03c8193dc8a87ed4912e3a85a9690323.png)
+---
 
-### personality
+## Fred Framework
 
-* 30s, no children, slightly misanthropic
-* color blind
-* thinks that his way is oviously the best way
-* likes well designed, standardized systems
-* is an open source enthousiast, only writes code with GPL
-* created two GitHub projects with open software and contributes to other great repos
-* gets disoriented and angry when rules are broken
-* frustrated by things not working as expected / promised
-* likely to give up quickly if things don't work the way they should
+![Fred Framework](../../img/personas/fred.png)
 
-### background / motivation
+**Role:** Contributor · **Preferred mode:** Code
 
-* data scientist / IT professional
+**Focus.** Fred builds technical integrations with the OEP and contributes to its software.
+He does not curate the scientific content of datasets.
 
-### skills
+**Context.** Data scientist and open source developer. Maintains his own open source
+projects and contributes to others. He wants to update datasets on the OEP automatically
+from his data pipeline.
 
-* know their way around REST APIs, python, ...
-* English: good
+**Goals**
 
-### user stories
+- Upload and update datasets automatically via the API.
+- Contribute bug fixes to the OEP.
+- Use data with complete, traceable metadata and a documented review status.
 
-* I as Fred Focus want to automate my data pipeline with the OEP API or oedialect. I thus need documentation of the OEP API.
-* I as Fred Focus want to connect my web frontends to the OEP API. I thus need documentation of the OEP API.
-* I as Fred Focus can help bugfix the OEP. I need to find out about how to contribute to OEP development. 
-* I as Fred Focus want to get all the metadata I can to work with. For that I need metadata of high quality and a proof for that.
+**Obstacles and requirements**
 
+| Obstacle                                                                     | Requirement for the OEP                                             | Expected result                                      |
+|------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------|
+| Inconsistent behaviour or outdated documentation quickly blocks his workflow | API reference that matches the implementation; versioned changes    | Fred's pipeline runs without manual intervention     |
+| Error responses do not state the cause                                       | Error messages with cause and affected field                        | Fred fixes failed uploads without contacting support |
+| Contribution process is hard to find                                         | Visible link to repository, contribution guidelines and open issues | Fred submits a pull request without asking           |
 
+**Skills and tools.** Python, REST APIs, git and GitHub.
 
+**Accessibility.** Red-green colour vision deficiency. Charts, status indicators and badges
+must be distinguishable without colour (see [platform requirements](index.md#accessibility)).
+
+**Entry points.** API, Open Energy Community
+
+**User stories**
+
+- As Fred, I want to upload and update tables with metadata via the API, so that my pipeline publishes new data automatically. ([UC-16](use-cases.md#uc-16))
+- As Fred, I want to find the contribution guidelines and open issues of the OEP, so that I can contribute bug fixes. ([UC-17](use-cases.md#uc-17))
+- As Fred, I want to see the licence, metadata completeness and review status of a dataset, so that I only build on reviewed data. ([UC-18](use-cases.md#uc-18))
+
+**Success.** Fred's pipeline updates a dataset on the OEP without manual steps, and his
+pull request is accepted.
+
+---
+
+## Diana Diligence
+
+![Diana Diligence](../../img/personas/diana.png)
+
+**Role:** Reviewer · **Preferred mode:** Data
+
+**Focus.** Diana assesses the quality and scientific comparability of data published by others.
+Unlike Charles, she examines the assumptions behind the results, not only the results.
+
+**Context.** Postdoctoral researcher in economics who studies the economic and distributional
+effects of energy and climate policy. She compares the economic input assumptions of
+scenarios for her own work. As a reviewer in the Open Peer Review, she checks datasets
+of other contributors. When she finds that economic concepts are missing from the
+Open Energy Ontology during a review, she proposes new terms.
+
+**Goals**
+
+- Compare economic input assumptions (GDP, energy prices) across scenarios.
+- Improve the quality of published datasets through reviews.
+- Have economic concepts represented in the Open Energy Ontology.
+
+**Obstacles and requirements**
+
+| Obstacle                                          | Requirement for the OEP                                   | Expected result                                    |
+|---------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------|
+| No clear review criteria                          | Documented criteria for each metadata field               | Reviews are consistent across reviewers            |
+| Decisions on ontology proposals are not traceable | Documented process and decision record for term proposals | Diana knows the status of her proposals            |
+| Input assumptions are hidden in result tables     | Assumptions labelled and annotated with ontology terms    | Assumptions of different scenarios can be compared |
+
+**Skills and tools.** Office software on macOS, some Python and SQL.
+
+**Accessibility.** No specific individual accessibility requirements identified.
+
+**Entry points.** Database, Ontology
+
+**User stories**
+
+- As Diana, I want to compare the economic input assumptions of several scenarios, so that I can calibrate my own model. ([UC-03](use-cases.md#uc-03))
+- As Diana, I want to review the metadata of a submitted dataset against documented criteria, so that my review is consistent with those of others. ([UC-19](use-cases.md#uc-19))
+- As Diana, I want to propose an economic term for the Open Energy Ontology and follow the decision on it, so that missing concepts can be used in annotations. ([UC-20](use-cases.md#uc-20))
+
+**Success.** Diana completes a review based on documented criteria, and her term proposal
+receives a traceable decision.
+
+---
 
 ## Attribution
 
-Images by studio4rt on Freepik
+Images by **studio4rt** on Freepik.
